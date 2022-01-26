@@ -3638,7 +3638,7 @@ http://103.205.133.48/hls/satv.m3u8
 http://103.205.133.48/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Mohona Tv
 http://103.205.133.48/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-id="tvg-logo=" tvg-name="Asian TV" tvg-logo="" group-title="ICC IPV",ICC_Asian TV
+#EXTINF:-1 tvg-id="tvg-logo=" tvg-name="Asian TV" tvg-logo="" group-title="ICC IPTV",ICC_Asian TV
 http://103.205.133.48/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Star Jalsha
 http://103.205.133.40/hls/chsj.m3u8
