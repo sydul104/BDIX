@@ -1070,9 +1070,9 @@ http://103.161.2.142/hls/stargold2hd.m3u8
 http://103.161.2.142/hls/sonyen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="" group-title="Internet_TV*",NICK
 http://103.161.2.142/hls/nick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CN HD+" tvg-logo="" group-title="Internet_TV",CN HD+
+#EXTINF:-1 tvg-id="" tvg-name="CN HD+" tvg-logo="" group-title="Internet_TV*",CN HD+
 http://103.161.2.142/hls/cn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="" group-title="Internet_TV",Pogo
+#EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="" group-title="Internet_TV*",Pogo
 http://103.161.2.142/hls/pogo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="Internet_TV*",Zoom
 http://103.161.2.142/hls/zoom.m3u8
@@ -1239,7 +1239,6 @@ http://103.81.104.118/hls/sunbangla.m3u8
 #EXTINF:-1 group-title="Internet TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGff0gSJSZvsnCd1fuuxNpnKa5cEbGYRs8Ow&usqp=CAU", 
 Star Sports Select 2 HD
 http://103.81.104.118/hls/select2.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel 24 HD" tvg-logo="" group-title="Internet_TV",Channel 24 HD
@@ -1847,8 +1846,6 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Miniplex HD" tvg-logo="" group-title="OTT Server LIVE",Miniplex HD
 http://ottss.online:8000/44122162500170/30316873476781/178761
 #EXTINF:-1 tvg-id="" tvg-name="PoP Pataka" tvg-logo="" group-title="OTT Server LIVE",PoP Pataka
@@ -1966,167 +1963,167 @@ http://ottss.online:8000/44122162500170/30316873476781/178710
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",T Sports
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",T Sports
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Atn Bangla
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Atn Bangla
 http://tv.alphamediazone.com:8089/thunderbd/2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Bangla Vision
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Bangla Vision
 http://tv.alphamediazone.com:8089/thunderbd/3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",La Liga Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",La Liga Tv
 http://tv.alphamediazone.com:8089/thunderbd/4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Channel 24
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Channel 24
 http://tv.alphamediazone.com:8089/thunderbd/5/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Channel I
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Channel I
 http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",DBC News
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",DBC News
 http://tv.alphamediazone.com:8089/thunderbd/7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Deepto Tv
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Deepto Tv
 http://tv.alphamediazone.com:8089/thunderbd/8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Duronto TV 2
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Duronto TV 2
 http://tv.alphamediazone.com:8089/thunderbd/10/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Ekattor Tv
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Ekattor Tv
 http://tv.alphamediazone.com:8089/thunderbd/11/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Independent Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Independent Tv
 http://tv.alphamediazone.com:8089/thunderbd/12/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Jamuna Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Jamuna Tv
 http://tv.alphamediazone.com:8089/thunderbd/13/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",R Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",R Tv
 http://tv.alphamediazone.com:8089/thunderbd/14/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",SA Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",SA Tv
 http://tv.alphamediazone.com:8089/thunderbd/15/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Ananda Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Ananda Tv
 http://tv.alphamediazone.com:8089/thunderbd/16/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Somoy Tv
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Somoy Tv
 http://tv.alphamediazone.com:8089/thunderbd/17/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",News 24 HD
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",News 24 HD
 http://tv.alphamediazone.com:8089/thunderbd/18/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Bangla Tv
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Bangla Tv
 http://tv.alphamediazone.com:8089/thunderbd/19/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony Ten 1 HD
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Sony Ten 1 HD
 http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony Ten 2 HD
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Sony Ten 2 HD
 http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony Ten 3 HD
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Sony Ten 3 HD
 http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",ESPN 2
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",ESPN 2
 http://tv.alphamediazone.com:8089/thunderbd/23/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony Six HD
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Sony Six HD
 http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Star Sports 1
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Star Sports 1
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Star Sports 2
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Star Sports 2
 http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Star Sports Select 1
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Star Sports Select 1
 http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Star Sports Select 2
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Star Sports Select 2
 http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Zee Bangla Cinema
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Zee Bangla Cinema
 http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Star Jalsha
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Star Jalsha
 http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Jalsha Movies HD
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Jalsha Movies HD
 http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Akash Aath
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Akash Aath
 http://tv.alphamediazone.com:8089/thunderbd/32/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony Aath
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Sony Aath
 http://tv.alphamediazone.com:8089/thunderbd/33/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Zee Bangla
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Zee Bangla
 http://tv.alphamediazone.com:8089/thunderbd/34/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",National Geographic Abu Dhabi
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",National Geographic Abu Dhabi
 http://tv.alphamediazone.com:8089/thunderbd/35/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony SAB
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Sony SAB
 http://tv.alphamediazone.com:8089/thunderbd/36/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony HD
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Sony HD
 http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Star Movies
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Star Movies
 http://tv.alphamediazone.com:8089/thunderbd/39/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Zee Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Zee Tv
 http://tv.alphamediazone.com:8089/thunderbd/40/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony PIX
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Sony PIX
 http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Hollywood Movie
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Hollywood Movie
 http://tv.alphamediazone.com:8089/thunderbd/42/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",DISCOVERY HD
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",DISCOVERY HD
 http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",BBC Earth
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",BBC Earth
 http://tv.alphamediazone.com:8089/thunderbd/44/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",9xm
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",9xm
 http://tv.alphamediazone.com:8089/thunderbd/48/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Atn News
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Atn News
 http://tv.alphamediazone.com:8089/thunderbd/49/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Mohona Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Mohona Tv
 http://tv.alphamediazone.com:8089/thunderbd/50/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Maasranga
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Maasranga
 http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Btv World
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Btv World
 http://tv.alphamediazone.com:8089/thunderbd/53/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Ntv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Ntv
 http://tv.alphamediazone.com:8089/thunderbd/54/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Nick
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Nick
 http://tv.alphamediazone.com:8089/thunderbd/55/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",MY Tv
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",MY Tv
 http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Dhoom
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Dhoom
 http://tv.alphamediazone.com:8089/thunderbd/57/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Gaan Bangla
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Gaan Bangla
 http://tv.alphamediazone.com:8089/thunderbd/58/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Nagorik Tv
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Nagorik Tv
 http://tv.alphamediazone.com:8089/thunderbd/59/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Boishakhi Tv
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Boishakhi Tv
 http://tv.alphamediazone.com:8089/thunderbd/61/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Asian Tv
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Asian Tv
 http://tv.alphamediazone.com:8089/thunderbd/62/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Atn Islamic Tv
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Atn Islamic Tv
 http://tv.alphamediazone.com:8089/thunderbd/63/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Ekushey ETV
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Ekushey ETV
 http://tv.alphamediazone.com:8089/thunderbd/65/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Colors Bangla
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Colors Bangla
 http://tv.alphamediazone.com:8089/thunderbd/66/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Star Plus
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Star Plus
 http://tv.alphamediazone.com:8089/thunderbd/67/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Colors HD
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Colors HD
 http://tv.alphamediazone.com:8089/thunderbd/68/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Zee Cafe HD
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Zee Cafe HD
 http://tv.alphamediazone.com:8089/thunderbd/69/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Willow HD
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Willow HD
 http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Europe IPTV
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Europe IPTV
 http://tv.alphamediazone.com:8089/thunderbd/72/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Ptv World
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Ptv World
 http://tv.alphamediazone.com:8089/thunderbd/73/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",&TV HD
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",&TV HD
 http://tv.alphamediazone.com:8089/thunderbd/74/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Zee Cinema HD
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Zee Cinema HD
 http://tv.alphamediazone.com:8089/thunderbd/76/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sony Max
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Sony Max
 http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",&Flix HD
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",&Flix HD
 http://tv.alphamediazone.com:8089/thunderbd/78/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",CN Arabia
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",CN Arabia
 http://tv.alphamediazone.com:8089/thunderbd/79/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Atn Music
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Atn Music
 http://tv.alphamediazone.com:8089/thunderbd/82/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",DW
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",DW
 http://tv.alphamediazone.com:8089/thunderbd/85/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Movie Bangla
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Movie Bangla
 http://tv.alphamediazone.com:8089/thunderbd/86/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Aljazeera
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Aljazeera
 http://tv.alphamediazone.com:8089/thunderbd/89/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Zee Action
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Zee Action
 http://tv.alphamediazone.com:8089/thunderbd/90/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Ptv World
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Ptv World
 http://tv.alphamediazone.com:8089/thunderbd/92/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Zee Bollywood
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Zee Bollywood
 http://tv.alphamediazone.com:8089/thunderbd/94/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Rupshi Bangla
+#EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Rupshi Bangla
 http://tv.alphamediazone.com:8089/thunderbd/95/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Sangeet Bangla
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Sangeet Bangla
 http://tv.alphamediazone.com:8089/thunderbd/96/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",Bflix Movies
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",Bflix Movies
 http://tv.alphamediazone.com:8089/thunderbd/97/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",9x Jalwa
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",9x Jalwa
 http://tv.alphamediazone.com:8089/thunderbd/98/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Alphamediazone",GTV
+#EXTINF: -1 tvg-logo="" group-title="Alphamediazone",GTV
 http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
 
 
@@ -2157,12 +2154,6 @@ http://14.199.164.20:4001/play/a0sm/index.m3u8
 http://14.199.164.20:4001/play/a0nn/index.m3u8
 #EXTINF:-1 ch-id="DHINCHAAK (IN)" tvg-logo=" "  group-title="HINDI",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
-
-
-
-
-
-
 
 
 
@@ -3610,79 +3601,55 @@ http://103.205.133.40/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png"  group-title="ICC IPTV",ICC_Independent TV
 http://103.205.133.48/hls/independenttv.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="ICC IPTV",ICC_ Shomoy TV
-
 http://103.205.133.48/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="ICC IPTV",ICC_News 24
 http://103.205.133.248/hls/news24.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="ICC IPTV",ICC_Channel 24
 http://103.205.133.48/hls/channel24.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="ICC IPTV",ICC_JAMUNA TV
 http://103.205.133.48/hls/jamunatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="ICC IPTV",ICC_DBC News
 http://103.205.133.48/hls/dbcnews.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="ICC IPTV",ICC_ATN News
 http://103.205.133.48/hls/atnnews.m3u8
-
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="ICC IPTV",ICC_ATN Bangla
 http://103.205.133.48/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="ICC IPTV",ICC_NTV
 http://103.205.133.48/hls/ntv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="ICC IPTV",ICC_ My TV
 http://103.205.133.48/hls/mytv.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="ICC IPTV",ICC_Nagorik TV
 http://103.205.133.48/hls/nagorik.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="ICC IPTV",ICC_Ekushey TV
 http://103.205.133.48/hls/ekushey.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="ICC IPTV",ICC_Banglavision
 http://103.205.133.48/hls/banglavision.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" group-title="ICC IPTV",ICC_Channel I
 http://103.205.133.48/hls/ichannel.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="ICC IPTV",ICC_Deepto TV
 http://103.205.133.48/hls/deeptotv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Desh Tv
 http://103.205.133.48/hls/deshtv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/duronto_tv.jpg" group-title="ICC IPTV",Ora_Duronto TV
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="ICC IPTV",ICC_RTV
 http://103.205.133.48/hls/rtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="ICC IPTV",ICC_SATV
 http://103.205.133.48/hls/satv.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="ICC IPTV",ICC_Bangla TV
 http://103.205.133.48/hls/banglatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Mohona Tv
 http://103.205.133.48/hls/mohonatv.m3u8
-#EXTINF:-1 tvg-id="tvg-logo=" tvg-name="Asian TV" tvg-logo="" group-title="ICC IPV",IIC_Asian TV
+#EXTINF:-1 tvg-id="tvg-logo=" tvg-name="Asian TV" tvg-logo="" group-title="ICC IPV",ICC_Asian TV
 http://103.205.133.48/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Star Jalsha
 http://103.205.133.40/hls/chsj.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="ICC IPTV",ICC_ Zee Bangla
 http://103.205.133.40/hls/zeebanglahd.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Colors Bangla
 http://103.205.133.40/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ICC IPTV",ICC_Sony Aath
 http://103.205.133.40/hls/sony8.m3u8
-
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="ICC IPTV",ICC_Ruposhi Bangla
 http://103.205.133.40/hls/ruposhibangla.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="ICC IPTV",ICC_Bangla Time
 http://103.205.133.40/hls/banglatime.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="ICC IPTV",ICC_CARTOON NETWORK
@@ -3697,43 +3664,30 @@ http://103.205.133.40/hls/cnn.m3u8
 http://103.205.133.40/hls/bbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="ICC IPTV",ICC_Gaan Bangla
 http://103.205.133.40/hls/gaanbangla.m3u8
-
-#EXTINF:-1   group-title="BANGLA CH",ICC: Sangeet Bangla
+#EXTINF:-1   group-title="ICC IPTV",ICC_Sangeet Bangla
 http://103.205.133.40/hls/sangeetbangla.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Dhoom Music
 http://103.205.133.40/hls/dhoommusic.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="ICC IPTV",ICC_9XM
 http://103.205.133.40/hls/9xm.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="ICC",ICC_Mastii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="ICC IPTV",ICC_Mastii
 http://103.205.133.40/hls/masti.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="ICC",ICC_B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="ICC IPTV",ICC_B4U Music
 http://103.205.133.40/hls/b4umusic.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="ICC",ICC_Ary Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="ICC IPTV",ICC_Ary Music
 http://103.205.133.40/hls/arymusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Sony Tv SD
 http://103.205.133.40/hls/chs.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="ICC IPTV",ICC_Star Plus
 http://103.205.133.40/hls/chsp.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ICC IPTV",ICC_Zee TV
 http://103.205.133.40/hls/zeetvhd.m3u8
-
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="ICC IPTV",ICC_& Pictures
 http://103.205.133.40/hls/andpicture.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="ICC IPTV",ICC_& TV
 http://103.205.133.40/hls/andtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="ICC IPTV",ICC_ZEE CINEMA
 http://103.205.133.40/hls/zeecinema.m3u8
-
-
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120824.jpg" group-title="ICC IPTV",ICC_Wow Cinema
 http://103.205.133.40/hls/wowcinema.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngl/107/2216441_movies-b4u-movies-logo-png-transparent-png.png" group-title="ICC IPTV",ICC_B4U Movies
@@ -3746,25 +3700,17 @@ http://103.205.133.40/hls/hbo.m3u8
 http://103.205.133.40/hls/sonypix.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="" group-title="ICC IPTV",ICC_T Sports
 http://103.205.133.40/hls/tsports.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="ICC IPTV",ICC_Star Sports 1
 #http://173.199.120.51/hls/chsp1.m3u8
 http://103.205.133.40/hls/chsp1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="ICC IPTV",ICC_Star Sports 2
 http://103.205.133.40/hls/chsp2.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="ICC IPTV",ICC_Sony SIX
 http://103.205.133.40/hls/sonysix.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="ICC IPTV",ICC_Sony Ten 1
 http://103.205.133.40/hls/chst1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC IPTV",ICC_Sony Ten 2
 http://103.205.133.48/hls/chst2.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="ICC IPTV",ICC_Sony Ten 3
 http://103.205.133.48/hls/chst3.m3u8
 
