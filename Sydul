@@ -1,4 +1,7 @@
 #EXTM3U
+
+******Jagobd*****
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x15351" group-title="Jagobd",Btv Chittagong
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 https://somoy.appv.jagobd.com:444/somoy/btvnational-ctg.stream/playlist.m3u8
@@ -181,8 +184,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/live-orgin/voicetv.stream/chunks.m3u8
 
 
-
-
+******Just Live*****
 
 #EXTINF:-1 tvg-id="" tvg-name="Ekattor TV HD" tvg-logo="" group-title="Just Live TV",Ekattor TV HD
 http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
@@ -324,7 +326,7 @@ http://103.159.4.38:5868/MOVIE-6/tracks-v1a1/mono.m3u8
 
 
 
-
+******ICC-1*****
 
 #EXTINF:-1 tvg-id="" tvg-name="Ekattor HD" tvg-logo="" group-title="ICC Server TV",Ekattor HD
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
@@ -407,7 +409,7 @@ http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
 
 
 
-
+******BD Server-2*****
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi [Server-2]",JAMUNA TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi [Server-2]",Channel 24
@@ -450,6 +452,7 @@ https://rhridoy136.shortcm.li/btvworld.m3u8
 
 
 ******Airtel*****
+
 #EXTINF:-1 group-title="Sneh Regional",B4U Hitz
 http://14.199.164.20:4001/play/a0wh/index.m3u8
 #EXTINF:-1 group-title="Sneh Regional",B4U KADAK
@@ -528,7 +531,7 @@ http://14.199.164.20:4001/play/a0lc/index.m3u8
 
 
 
-
+******m-c15-j2apps*****
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",FILMY (IN)
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",FIRANGI (IN)
@@ -622,10 +625,7 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 
 
 
-
-
-
-
+******Ebox*****
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="tv2.ebox", ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="tv2.ebox", Bangla Vision
@@ -732,7 +732,7 @@ http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
 
 
 
-
+******AmrBD*****
 #EXTINF:-1 tvg-id="" tvg-name="Ekattor-tv" tvg-logo="" group-title="AmrBD Server",Ekattor-tv
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DBC-NEWS" tvg-logo="" group-title="AmrBD Server",DBC-NEWS
@@ -890,7 +890,7 @@ http://stream.amrbd.com:8082/Xplore/tracks-v1a1/mono.m3u8
 
 
 
-
+******Ihub*****
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="ihub-BDIX", ATN Bangla
 http://cdn.ihub.live:8080/j-ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="ihub-BDIX", ATN News
@@ -989,7 +989,7 @@ http://cdn.ihub.live:8080/DubaiOne/tracks-v1a1/mono.m3u8
 http://cdn.ihub.live:8080/ADSPORTS3/tracks-v1a1/mono.m3u8
 
 
-
+******Internet_TV*****
 #EXTINF:-1 tvg-id="" tvg-name="Massranga HD" tvg-logo="" group-title="Internet_TV*",Massranga HD
 http://103.161.2.142/hls/masranga.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="Internet_TV*",Channel i HD
@@ -1294,7 +1294,7 @@ http://180.210.191.2/hls/madani.m3u8
 
 
 
-
+******Basic*****
 #EXTINF: -1 tvg-logo="" group-title="IPTVESUN",STAR SPORTS 1 HD (IN)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #EXTINF: -1 tvg-logo="" group-title="IPTVESUN",STAR SPORTS 2 HD (IN)
@@ -1845,7 +1845,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
 
 
 
-
+******OTT*****
 #EXTINF:-1 tvg-id="" tvg-name="Miniplex HD" tvg-logo="" group-title="OTT Server LIVE",Miniplex HD
 http://ottss.online:8000/44122162500170/30316873476781/178761
 #EXTINF:-1 tvg-id="" tvg-name="PoP Pataka" tvg-logo="" group-title="OTT Server LIVE",PoP Pataka
@@ -1962,7 +1962,7 @@ http://ottss.online:8000/44122162500170/30316873476781/178710
 
 
 
-
+******Alfa*****
 #EXTINF: -1 tvg-logo="" group-title="Alphamediazone",T Sports
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 #EXTINF: -1 tvg-logo=""group-title="Alphamediazone",Atn Bangla
@@ -2127,7 +2127,7 @@ http://tv.alphamediazone.com:8089/thunderbd/98/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
 
 
-
+******Hindi*****
 #EXTINF:-1 ch-id="B4U HITS (IN)" tvg-logo=" "  group-title="HINDI",B4U HITS (IN)
 http://14.199.164.20:4001/play/a0wh/index.m3u8
 #EXTINF:-1 ch-id="B4U MUSIC (IN)" tvg-logo=" "  group-title="HINDI",B4U MUSIC (IN)
@@ -2159,7 +2159,7 @@ http://14.199.164.20:4001/play/a0o5/index.m3u8
 
 
 
-
+******Jio*****
 #EXTINF:-1 tvg-id="" tvg-name="Colors_Cineplex SD" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Jio Server LIVE",Colors_Cineplex SD
 https://tvstream.space/jtv/jeOxxottv.php?c=Colors_Cineplex&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors_Cineplex_HD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928233543372120_cineplex-hd.png" group-title="Jio Server LIVE",Colors_Cineplex_HD
@@ -2523,7 +2523,7 @@ http://65.2.4.240/jioo.php?c=Music_India&q=800&e=.m3u8
 
 
 
-
+******BDCable*****
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies HD" tvg-logo=""BDCable Live",Star Jalsha Movies HD
 http://jupiter.bdcabletv.com/ENC-6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="" group-title="BDCable Live",Star Bharat HD
@@ -2648,7 +2648,7 @@ http://jupiter.bdcabletv.com/ENC-9/video.m3u8
 
 
 
-
+******Premium*****
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", T Sports HD [9]
 http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", SA TV HD [9]
@@ -2719,9 +2719,6 @@ http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/hindi-UTVMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Premium FHD", Big Magic [9]
 http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u8
-
-
-
 
 
 
@@ -2799,6 +2796,8 @@ http://indo51.gcdn.co/hindi-BIGMAGIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E24" tvg-logo="" group-title="Premium Full HD LIVE",E24
 http://indo51.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
 
+
+******FHD*****
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="" group-title="FULL HD TV SERVER",Hits Movies
 https://feed.play.mv/live/1009/OD8M4673DS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="" group-title="FULL HD TV SERVER",Aljazeera
@@ -2917,6 +2916,7 @@ https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
 https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
 
 
+******VE*****
 #EXTINF:-1 tvg-id="" tvg-name="TSportsHD" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="VE Broadband Server",TSportsHD
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GAzi TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="VE Broadband Server",GAzi TV HD
@@ -2947,7 +2947,7 @@ http://137.59.155.77:8088/hls/05sonysix.m3u8
 
 
 
-
+******4k*****
 #EXTINF:-1 tvg-id="" tvg-name="AND_TV_HD" tvg-logo="" group-title="4K Live Server",AND_TV_HD
 http://143.244.60.10/HINDI__AND_TV_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="STAR_BHARAT_HD" tvg-logo="" group-title="4K Live Server",STAR_BHARAT_HD
@@ -3078,10 +3078,7 @@ http://143.244.60.10/HINDI__SONY_PIX_HD/tracks-v1a1/mono.m3u8?token=test
 
 
 
-
-
-
-
+******Sony Liv*****
 #EXTINF:-1 tvg-id="" tvg-name="Movies Now HD" tvg-logo="" group-title="Sony LIV Server",Movies Now HD
 http://ahaohoo.com/.1/tv1/play.php?id=2307&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WB" tvg-logo="" group-title="Sony LIV Server",WB
@@ -3300,10 +3297,7 @@ http://ahaohoo.com/.1/tv1/play.php?id=1971&e=.m3u8
 
 
 
-
-
-
-
+******Indian*****
 #EXTINF:-1 tvg-id="" tvg-name="SONY-MAX HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="Indian Server",SONY-MAX HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg" group-title="Indian Server",Zee Cinema HD
@@ -3326,9 +3320,6 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Indian Server",Sony HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Tamil 4K" tvg-logo="" group-title="Indian Server",Zee Tamil 4K
 http://93.190.139.35:8278/streams/d/Zeetamil/playlist.m3u8
@@ -3421,10 +3412,7 @@ http://85.203.33.88/live/xIJYJ5P6113/Z80Gk09755/6236.m3u8
 
 
 
-
-
-
-
+******RD Redoy*****
 #EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="RH Redoy Server",Banglavision HD
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="RH Redoy Server",Independent TV
@@ -3477,12 +3465,7 @@ https://rhridoy136.shortcm.li/channel9.m3u8
 
 
 
-
-
-
-
-
-
+******CinemaBazz*****
 #EXTINF:-1 tvg-id="" tvg-name="EkattorTV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="CinemaBazz Server",EkattorTV
 https://cdn.cinemabaaz.live/EkattorTV/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="CinemaBazz Server",TSports
@@ -3588,10 +3571,7 @@ https://cdn.cinemabaaz.live/SonyMaxHD/mono.m3u8
 
 
 
-
-
-
-
+******ICC-2*****
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="ICC IPTV",ICC_BTV World
 http://103.205.133.40/hls/btvworld.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="ICC IPTV",ICC_BTV 
