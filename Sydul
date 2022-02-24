@@ -666,6 +666,61 @@ https://rhridoy136.shortcm.li/btvworld.m3u8
 
 
 
+
+
+******DIRECT******
+#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR BHARAT HD (IN)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE TV (UK)
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE TV HD (IN)
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD 2 (IN)
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE CINEMA HD (IN)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE ACTION (IN)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV" tvg-logo="SONY MAX 2",SONY MAX 2 (IN)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="STREAM",B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",MTV (IN)
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",MTV BEATS HD (IN)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",UTV ACTION (IN)
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+
+
+
+
 ******Airtel*****
 
 #EXTINF:-1 group-title="Sneh Regional",B4U Hitz
