@@ -1833,6 +1833,7 @@ http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
 
 
 ******BDCable*****
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies HD" tvg-logo=""BDCable Live",Star Jalsha Movies HD
 http://jupiter.bdcabletv.com/ENC-6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="" group-title="BDCable Live",Star Bharat HD
