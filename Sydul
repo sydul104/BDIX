@@ -880,20 +880,18 @@ http://10.16.100.245/hindi/channeL24_1st0p.m3u8
 http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="ICC Server TV",Desh TV
 http://10.16.100.245/hindi/de$htv_1st0p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Digi Bangla 24 HD" tvg-logo="" group-title="ICC Server TV",Digi Bangla 24 HD
-http://10.16.100.203:8082/bangla/digibangla24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="ICC Server TV",Ekushey TV
 http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GAZI TV HD" tvg-logo="" group-title="ICC Server TV",GAZI TV HD
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="ICC Server TV",T-Sports
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+http://10.16.100.245/hindi/Tsport$local.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="" group-title="ICC Server TV",Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mohona TV HD" tvg-logo="" group-title="ICC Server TV",Mohona TV HD
-http://10.16.100.207:8082/sports/mohon@tv_1st0p.m3u8
+http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="ICC Server TV",My TV HD
-http://10.16.100.207:8082/sports/mytv_1sT0p.m3u8
+http://10.16.100.208:8082/hindi/mytV_1$stop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="ICC Server TV",ATN Bangla
 http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian TV HD" tvg-logo="" group-title="ICC Server TV",Asian TV HD
@@ -906,16 +904,34 @@ http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
 http://10.16.100.203:8082/bangla/chenel_I.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GaanBangla HD" tvg-logo="" group-title="ICC Server TV",GaanBangla HD
 http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="" group-title="ICC Server TV",Sony Aath
+http://10.16.100.204:8082/hls/s0ny8aat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="ICC Server TV",Colors Bangla
+http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee  Bangla" tvg-logo="" group-title="ICC Server TV",Zee  Bangla
+http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha IN" tvg-logo="" group-title="ICC Server TV",Star Jalsha
+http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="ICC Server TV",T-Sports-2
+http://10.16.100.245/hindi/Tsport$local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi HD 2" tvg-logo="" group-title="ICC Server TV",Gazi HD 2
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="" group-title="ICC Server TV",Sony Ten 1
+http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="" group-title="ICC Server TV",Sony Ten 2
+http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="" group-title="ICC Server TV",Sony Ten 3
+http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 3" tvg-logo="" group-title="ICC Server TV",Sony Six HD
+http://10.16.100.207:8082/sports/s0ny6six.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Digi Bangla 24 HD" tvg-logo="" group-title="ICC Server TV",Digi Bangla 24 HD
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Khusboo Bangla" tvg-logo="" group-title="ICC Server TV",Khusboo Bangla
 http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="" group-title="ICC Server TV",Sony Aath
-http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="ICC Server TV",Sangeet Bangla
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="ICC Server TV",Colors Bangla
-http://10.16.100.205/hls/colorsbd480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee  Bangla" tvg-logo="" group-title="ICC Server TV",Zee  Bangla
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&Pictures HD" tvg-logo="" group-title="ICC Server TV",&Pictures HD
 http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wow Cinema" tvg-logo="" group-title="ICC Server TV",Wow Cinema
@@ -926,20 +942,8 @@ http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="" group-title="ICC Server TV",Star Plus
 http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="" group-title="ICC Server TV",Sony Ten 1
-http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 4" tvg-logo="" group-title="ICC Server TV",Sony Six HD 4
-http://10.16.100.203:8082/bangla/sony6_TV_bkp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 3" tvg-logo="" group-title="ICC Server TV",Sony Six HD 3
-http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 2" tvg-logo="" group-title="ICC Server TV",Sony Six HD 2
-http://10.16.100.207:8082/sports/sony_6_uk_bkp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="" group-title="ICC Server TV",Sony Six HD
-http://10.16.100.207:8082/sports/sony_six_uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="ICC Server TV",T-Sports-2
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi HD 2" tvg-logo="" group-title="ICC Server TV",Gazi HD 2
-http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
+
+
 
 
 
