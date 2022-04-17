@@ -185,7 +185,104 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 
 
+******ICC-1*****
 
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor HD" tvg-logo="" group-title="ICC Server TV",Ekattor HD
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="" group-title="ICC Server TV",DBC News HD
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",Somoy tv
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="" group-title="ICC Server TV",Channel 24
+http://10.16.100.245/hindi/channeL24_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="" group-title="ICC Server TV",Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="ICC Server TV",ATN News
+http://10.16.100.245/hindi/atNnews_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV HD" tvg-logo="" group-title="ICC Server TV",GAZI TV HD
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="ICC Server TV",T-Sports
+http://10.16.100.245/hindi/Tsport$local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="ICC Server TV",ATN Bangla
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="ICC Server TV",NTV
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="ICC Server TV",RTV
+http://10.16.100.245/hindi/R_tv_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="ICC Server TV",Banglavision HD
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV HD" tvg-logo="" group-title="ICC Server TV",Bijoy TV HD
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="ICC Server TV",Desh TV
+http://10.16.100.245/hindi/de$htv_1st0p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="ICC Server TV",Ekushey TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV HD" tvg-logo="" group-title="ICC Server TV",Mohona TV HD
+http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="ICC Server TV",My TV HD
+http://10.16.100.208:8082/hindi/mytV_1$stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV HD" tvg-logo="" group-title="ICC Server TV",Asian TV HD
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV HD" tvg-logo="" group-title="ICC Server TV",Deepto TV HD
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="" group-title="ICC Server TV",Bangla TV HD
+http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="ICC Server TV",Channel i HD
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GaanBangla HD" tvg-logo="" group-title="ICC Server TV",GaanBangla HD
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="" group-title="ICC Server TV",Sony Aath
+http://10.16.100.204:8082/hls/s0ny8aat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="ICC Server TV",Colors Bangla
+http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee  Bangla" tvg-logo="" group-title="ICC Server TV",Zee  Bangla
+http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha IN" tvg-logo="" group-title="ICC Server TV",Star Jalsha
+http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="ICC Server TV",T-Sports-2
+http://10.16.100.245/hindi/Tsport$local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi HD 2" tvg-logo="" group-title="ICC Server TV",Gazi HD 2
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="" group-title="ICC Server TV",Sony Ten 1
+http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="" group-title="ICC Server TV",Sony Ten 2
+http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="" group-title="ICC Server TV",Sony Ten 3
+http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 3" tvg-logo="" group-title="ICC Server TV",Sony Six HD
+http://10.16.100.207:8082/sports/s0ny6six.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports-1
+http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports-2
+http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports Select-1
+http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports Select-2
+http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",PTV Sports
+http://10.16.100.245/hindi/pTvSp0rts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Digi Bangla 24 HD" tvg-logo="" group-title="ICC Server TV",Digi Bangla 24 HD
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khusboo Bangla" tvg-logo="" group-title="ICC Server TV",Khusboo Bangla
+http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="ICC Server TV",Sangeet Bangla
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Pictures HD" tvg-logo="" group-title="ICC Server TV",&Pictures HD
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wow Cinema" tvg-logo="" group-title="ICC Server TV",Wow Cinema
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="" group-title="ICC Server TV",&TV
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="" group-title="ICC Server TV",Colors
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="" group-title="ICC Server TV",Star Plus
+http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
+
+
+
+
+*******okbd******
 #EXTINF:-1 tvg-logo="" group-title="okbd",Star Sports-1
 http://nbn.chowdhury-shaheb.com/live/starsporthd/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Star Sports Select-1
@@ -206,212 +303,119 @@ http://nbn.chowdhury-shaheb.com/live/animelplanet/chunks.m3u8
 http://nbn.chowdhury-shaheb.com/live/bbcearth/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Duranto tv
 http://nbn.chowdhury-shaheb.com/live/duranta/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd", Sony Aath
+http://nbn.chowdhury-shaheb.com/live/nb-sonyaath/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Zee Cinema
+http://nbn.chowdhury-shaheb.com/live/zeebanglacinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Zee tv
+http://nbn.chowdhury-shaheb.com/live/zeetv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Star Gold
+http://nbn.chowdhury-shaheb.com/live/stargold/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",And Pictures
+http://nbn.chowdhury-shaheb.com/live/andpicture/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",AXN
+http://nbn.chowdhury-shaheb.com/live/axn/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Star Movie Select
+http://nbn.chowdhury-shaheb.com/live/starmovie/chunks.m3u8
 
 
-#EXTINF:-1 group-title="Special BDIX",Ch-1
-http://103.149.130.122:8089/1/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-2
-http://103.149.130.122:8089/2/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-3 
-http://103.149.130.122:8089/3/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-4
-http://103.149.130.122:8089/4/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-5
-http://103.149.130.122:8089/5/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-6
-http://103.149.130.122:8089/6/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-7
-http://103.149.130.122:8089/7/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-8
-http://103.149.130.122:8089/8/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-9
-http://103.149.130.122:8089/9/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-10
-http://103.149.130.122:8089/10/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-11
-http://103.149.130.122:8089/11/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-12
-http://103.149.130.122:8089/12/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-13
-http://103.149.130.122:8089/13/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-14
-http://103.149.130.122:8089/14/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-15
-http://103.149.130.122:8089/15/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-16
-http://103.149.130.122:8089/16/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-17
-http://103.149.130.122:8089/17/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-18
-http://103.149.130.122:8089/18/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-19
-http://103.149.130.122:8089/19/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-20
-http://103.149.130.122:8089/20/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-21
-http://103.149.130.122:8089/21/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-22
-http://103.149.130.122:8089/22/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-23
-http://103.149.130.122:8089/23/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-24
-http://103.149.130.122:8089/24/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-25
-http://103.149.130.122:8089/25/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-26
-http://103.149.130.122:8089/26/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-27
-http://103.149.130.122:8089/27/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-28
-http://103.149.130.122:8089/28/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-29
-http://103.149.130.122:8089/29/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-30
-http://103.149.130.122:8089/30/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-31
-http://103.149.130.122:8089/31/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-32
-http://103.149.130.122:8089/32/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-33
-http://103.149.130.122:8089/33/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-34
-http://103.149.130.122:8089/34/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-35
-http://103.149.130.122:8089/35/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-36
-http://103.149.130.122:8089/36/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-37
-http://103.149.130.122:8089/37/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-38
-http://103.149.130.122:8089/38/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-39
-http://103.149.130.122:8089/39/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-40
-http://103.149.130.122:8089/40/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-41
-http://103.149.130.122:8089/41/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-42
-http://103.149.130.122:8089/42/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-43
-http://103.149.130.122:8089/43/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-44
-http://103.149.130.122:8089/44/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-45
-http://103.149.130.122:8089/45/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-46
-http://103.149.130.122:8089/46/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-47
-http://103.149.130.122:8089/47/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-48
-http://103.149.130.122:8089/48/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-49
-http://103.149.130.122:8089/49/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-50
-http://103.149.130.122:8089/50/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-51
-http://103.149.130.122:8089/51/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-52
-http://103.149.130.122:8089/52/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-53
-http://103.149.130.122:8089/53/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-54
-http://103.149.130.122:8089/54/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-55
-http://103.149.130.122:8089/55/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-56
-http://103.149.130.122:8089/56/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-57
-http://103.149.130.122:8089/57/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-58
-http://103.149.130.122:8089/58/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-59
-http://103.149.130.122:8089/59/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-60
-http://103.149.130.122:8089/60/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-61
-http://103.149.130.122:8089/61/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-62
-http://103.149.130.122:8089/62/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-63
-http://103.149.130.122:8089/63/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-64
-http://103.149.130.122:8089/64/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-65
-http://103.149.130.122:8089/65/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-66
-http://103.149.130.122:8089/66/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-67
-http://103.149.130.122:8089/67/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-68
-http://103.149.130.122:8089/68/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-69
-http://103.149.130.122:8089/69/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-70
-http://103.149.130.122:8089/70/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-71
-http://103.149.130.122:8089/71/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-72
-http://103.149.130.122:8089/72/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-73
-http://103.149.130.122:8089/73/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-74
-http://103.149.130.122:8089/74/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-75
-http://103.149.130.122:8089/75/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-76
-http://103.149.130.122:8089/76/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-77
-http://103.149.130.122:8089/77/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-78
-http://103.149.130.122:8089/78/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-79
-http://103.149.130.122:8089/79/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-80
-http://103.149.130.122:8089/80/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-81
-http://103.149.130.122:8089/81/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-82
-http://103.149.130.122:8089/82/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-83
-http://103.149.130.122:8089/83/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-84
-http://103.149.130.122:8089/84/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-85
-http://103.149.130.122:8089/85/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-86
-http://103.149.130.122:8089/86/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-87
-http://103.149.130.122:8089/87/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-88
-http://103.149.130.122:8089/88/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-89
-http://103.149.130.122:8089/89/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-90
-http://103.149.130.122:8089/90/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-91
-http://103.149.130.122:8089/91/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-92
-http://103.149.130.122:8089/92/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-93
-http://103.149.130.122:8089/93/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-94
-http://103.149.130.122:8089/94/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-95
-http://103.149.130.122:8089/95/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-96
-http://103.149.130.122:8089/96/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-97
-http://103.149.130.122:8089/97/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-98
-http://103.149.130.122:8089/98/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-99
-http://103.149.130.122:8089/99/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-100
-http://103.149.130.122:8089/100/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-101
-http://103.149.130.122:8089/101/index.m3u8
-#EXTINF:-1 group-title="Special BDIX",Ch-102
-http://103.149.130.122:8089/102/index.m3u8
+
+
+******RD Redoy*****
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="RH Redoy Server",Banglavision HD
+https://rhridoy136.shortcm.li/banglavisiontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="RH Redoy Server",Independent TV
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jumuna TV" tvg-logo="" group-title="RH Redoy Server",Jumuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="" group-title="RH Redoy Server",Channel 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="" group-title="RH Redoy Server",News 24 HD
+https://rhridoy136.shortcm.li/news24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="RH Redoy Server",Somoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="" group-title="RH Redoy Server",DBC News HD
+https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="RH Redoy Server",Channel i HD
+https://rhridoy136.shortcm.li/channeli.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="RH Redoy Server",NTV
+https://rhridoy136.shortcm.li/ntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="RH Redoy Server",RTV
+https://rhridoy136.shortcm.li/rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="" group-title="RH Redoy Server",Maasranga TV HD
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="RH Redoy Server",Desh TV
+https://rhridoy136.shortcm.li/deshtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GaanBangla TV" tvg-logo="" group-title="RH Redoy Server",GaanBangla TV
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="RH Redoy Server",ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="RH Redoy Server",ATN Bangla
+https://rhridoy136.shortcm.li/atnbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="RH Redoy Server",My TV HD
+https://rhridoy136.shortcm.li/mytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="RH Redoy Server",SATV HD
+https://rhridoy136.shortcm.li/satv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="RH Redoy Server",Deepto TV
+https://rhridoy136.shortcm.li/deeptotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="" group-title="RH Redoy Server",BTV World
+https://rhridoy136.shortcm.li/btvworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="RH Redoy Server",Ekushey TV
+https://rhridoy136.shortcm.li/ekusheytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo="" group-title="RH Redoy Server",Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="" group-title="RH Redoy Server",Mohona TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="" group-title="RH Redoy Server",Boishakhi TV
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 2" tvg-logo="" group-title="RH Redoy Server",Channel 9 2
+https://rhridoy136.shortcm.li/channel9.m3u8
+
+
+
+******BD Server-2*****
+#EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi [Server-2]",JAMUNA TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi [Server-2]",Channel 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="Bangladeshi [Server-2]",News 24
+https://rhridoy136.shortcm.li/news24.m3u8
+#EXTINF:0 tvg-logo="https://megaflix.tv/uploads/tv_image/somoy-tv.png" group-title="Bangladeshi [Server-2]",Somoy News
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangladeshi [Server-2]",DBC News
+https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangladeshi [Server-2]",Maasranga
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi [Server-2]",Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi [Server-2]",Channel I
+https://rhridoy136.shortcm.li/channeli.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi [Server-2]",RTV
+https://rhridoy136.shortcm.li/rtv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangladeshi [Server-2]",Boishakhi
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
+#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Desh-TV.png" group-title="Bangladeshi [Server-2]",Desh Tv
+https://rhridoy136.shortcm.li/deshtv.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladeshi [Server-2]",Banglavision
+https://rhridoy136.shortcm.li/banglavisiontv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="Bangladeshi [Server-2]",ATN NEWS
+https://rhridoy136.shortcm.li/atnnews.m3u8
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="Bangladeshi [Server-2]",ATN Bangla
+https://rhridoy136.shortcm.li/atnbangla.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi [Server-2]",My TV
+https://rhridoy136.shortcm.li/mytv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi [Server-2]",SATV
+https://rhridoy136.shortcm.li/satv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangladeshi [Server-2]",Deepto TV
+https://rhridoy136.shortcm.li/deeptotv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangladeshi [Server-2]",GTV
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangladeshi [Server-2]",BTV World
+https://rhridoy136.shortcm.li/btvworld.m3u8
+
+
+
+
 
 
 
@@ -500,6 +504,241 @@ http://103.153.39.36:8000/play/a019
 http://103.153.39.36:8000/play/a00r
 #EXTINF:-1 tvg-logo="" group-title="Special Server",A Sports
 http://hls.bioscope.gq/tracks-v1a1/mono.m3u8
+
+
+
+
+******DIRECT******
+#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR BHARAT HD (IN)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE TV (UK)
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE TV HD (IN)
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD 2 (IN)
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE CINEMA HD (IN)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE ACTION (IN)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV" tvg-logo="SONY MAX 2",SONY MAX 2 (IN)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="STREAM",B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",MTV (IN)
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",MTV BEATS HD (IN)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DIRECT-TV",UTV ACTION (IN)
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+
+
+
+
+******m-c15-j2apps*****
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",FILMY (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",FIRANGI (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",BIXFLIX MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",BOX CINEMA (IN)
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MANORANJAN MOVIES (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MAHA MOVIE (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MOVIE PLUS (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",BOLLYWOOD (IN)
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",EPIC (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",DISHUM (UK)
+https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",DD NATIONAL (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",ANJAN TV (IN)
+https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MASTIII (IN)
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",SHOW MUSIC (IN)
+https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MUSIC INDIA (IN)
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",NEWS NATION (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",INDIA TV (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",DD ASSAM (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",DD KASHIR (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",9X JALWA (IN)
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",,9XM (IN)
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",GULISTAN NEWS (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
+#EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo="https://1.bp.blogspot.com/-0IxLqpt1Ngw/YOv4JNIWNbI/AAAAAAAAAW4/rUxiYo50ne8OJRHXkVdX4hXuDuCMd6VqACLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg"  group-title="MX-TV",NEWS X (IN)
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
+#EXTINF:-1 ch-id="NEWS INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-l9btGw2epVM/YOv2ZdAGNsI/AAAAAAAAAWc/_Ig6xApZ3_QC_8pkd_iSMzCuV5E3gSCWACLcBGAsYHQ/s200/images%2B%25289%2529%25281%2529.jpeg"  group-title="MX-TV",NEWS INDIA (IN)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 ch-id="NEWS INDIA 24X7 (IN)" tvg-logo="https://1.bp.blogspot.com/-kZa8bOjRYGQ/YP_gubP-oMI/AAAAAAAAApk/uMV_Q5wWFVgJatRsklNM3FyaiOJ9nNwUwCLcBGAsYHQ/s200/NEWS-INDIA-ipd-logo.png"  group-title="MX-TV",NEWS INDIA 24X7 (IN)
+https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
+#EXTINF:-1 ch-id="JANATA TV (IN)" tvg-logo="https://1.bp.blogspot.com/-Gd-BKUae8Ok/YP_hnwxlWsI/AAAAAAAAAps/O23Pi1lTgMwx6Qs6GOnLKnj93VRUR1Y_ACLcBGAsYHQ/s200/images%2B%25282%2529.png"  group-title="MX-TV",JANATA TV (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
+#EXTINF:-1 ch-id="SAMAY (IN)" tvg-logo="https://1.bp.blogspot.com/-80B24drS7bc/YP_iz8utazI/AAAAAAAAAp8/yGfb46TwQgMe6plm7rsAFqFHEBk4GILiACLcBGAsYHQ/s200/IMG_20210724_112234.jpg"  group-title="MX-TV",SAMAY (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
+#EXTINF:-1 ch-id="A1 TV (IN)" tvg-logo="https://1.bp.blogspot.com/-hXstI0S8phQ/YOrSHpdfQTI/AAAAAAAAAUk/Wuv2_YMcqmcFkLcXremc-cPXc3z2EQCWQCLcBGAsYHQ/s200/images%2B%25281%2529%25281%2529.jpeg"  group-title="MX-TV",A1 TV (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
+#EXTINF:-1 ch-id="IBC 24 (IN)" tvg-logo="https://1.bp.blogspot.com/-_09nJ0v0Q8o/YP_jGjJB4tI/AAAAAAAAAqE/c9AiCIzJY7sD_3GYuCwDOjd8bqlzU8agACLcBGAsYHQ/s200/images%2B%25289%2529%25282%2529.jpeg"  group-title="MX-TV",IBC 24 (IN)
+https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
+#EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-7V_aMzQ4LZY/YOxKPu1uAuI/AAAAAAAAAbE/5n85ElNXJuUzWpV2F6WhPeYtZUSo6auQACLcBGAsYHQ/s200/images%2B%252810%2529.jpeg"  group-title="MX-TV",ABP NEWS (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
+#EXTINF:-1 ch-id="CVR NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-VHv0px0qYws/YP_ju_pL2aI/AAAAAAAAAqM/H9xP46oSYNwdM4zc6hqICvvfoi0BBfvawCLcBGAsYHQ/s200/images%2B%25284%2529%25281%2529.jpeg"  group-title="MX-TV",CVR NEWS (IN)
+https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
+#EXTINF:-1 ch-id="SADHNA PLUS (IN)" tvg-logo="https://1.bp.blogspot.com/-KxwvvnxlrbE/YOrLf5eRyBI/AAAAAAAAASo/GWl9NDMfMnwcWJNzSJLtJXm4iEvIKT0ogCLcBGAsYHQ/s200/images%2B%25287%2529.jpeg"  group-title="MX-TV",SADHNA PLUS (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
+#EXTINF:-1 ch-id="K NEWS 24X7 (IN)" tvg-logo="https://1.bp.blogspot.com/-PQeSecwaWrQ/YP_kuN0kJqI/AAAAAAAAAqU/GKOXPOphVREP7DdpGk4VCRe0EYMcqEBkgCLcBGAsYHQ/s200/wY6hCdz8.png"  group-title="MX-TV",K NEWS 24X7 (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
+#EXTINF:-1 ch-id="HINDI KHABAR (IN)" tvg-logo="https://1.bp.blogspot.com/-6U1zJC1x50A/YP_lHn9Kf8I/AAAAAAAAAqc/CpeLEmQ5IrksCIndQZa3lXdkdyY6dmxhACLcBGAsYHQ/s200/images%2B%25281%2529.png"  group-title="MX-TV",HINDI KHABAR (IN)
+https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
+#EXTINF:-1 ch-id="DD INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-1Os1WZ12t4Y/YP_l0hzbfzI/AAAAAAAAAqk/h6F8zVuOaR0vyZQnQUTvTqwqyQjUyxaIgCLcBGAsYHQ/s200/download.jpeg"  group-title="MX-TV",DD INDIA (IN)
+https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
+#EXTINF:-1 ch-id="SURYA SAMACHAR (IN)" tvg-logo="https://1.bp.blogspot.com/-gTdOcicrApI/YP_md5DMvcI/AAAAAAAAAqs/KMQyUhvJ-40nN_M4eDh7bLN2ICA65Z_ggCLcBGAsYHQ/s200/images%2B%25281%2529%25282%2529.jpeg"  group-title="MX-TV",SURYA SAMACHAR (IN)
+https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
+#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo="https://1.bp.blogspot.com/-P3WxrscYQHw/YP_nTMSyINI/AAAAAAAAAq8/VyFGwtvv3MIc_HQrxcoSO38kJOqyL1sawCLcBGAsYHQ/s200/images.jpeg"  group-title="MX-TV",FOOD FOOD (IN)
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+#EXTINF:-1 ch-id="DW (IN)" tvg-logo="https://1.bp.blogspot.com/-7V-KhSpqQ2Y/YN3Nz-MvOgI/AAAAAAAAAJY/bBM1UQtxdD4NBxpIe0OU423YETw8kj55gCLcBGAsYHQ/s532/PicsArt_07-01-05.48.35.jpg"  group-title="MX-TV",DW (IN)
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 ch-id="FRANCE24 (IN)" tvg-logo=" "  group-title="MX-TV",FRANCE24 (IN)
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
+#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="MX-TV",EURO NEWS (UK)
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
+#EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo="https://1.bp.blogspot.com/-CmDquca6_hU/YP_n6_YUkQI/AAAAAAAAArE/xWjM6XfTAKQfrtyNW-t8c60NB1wwbw9yACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg"  group-title="MX-TV",DD RETRO (IN)
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in/index.m3u8
+#EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo="https://1.bp.blogspot.com/-w1k6705blqQ/YP_ovgM0A0I/AAAAAAAAArM/eAI0rCEIv8AozAMJ6zzczUzjc6CKbfQfwCLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg"  group-title="MX-TV",SANSKAR (IN)
+https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
+#EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo="https://1.bp.blogspot.com/-NOBjZCLGszM/YP_pb-k4B2I/AAAAAAAAArU/K-zF7ya8SXgzs4DOUIzbRMn1x-HD3CJbgCLcBGAsYHQ/s200/download%25283%2529.png"  group-title="MX-TV",ISHWAR TV (IN)
+https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
+#EXTINF:-1 ch-id="SHEMAROO TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiAeNnLczA1oLBfDLfdTSWreu-WeFuD2BdbbiiYPyyI_BzBpWbI2fKy0b3ZMgZeG4tNzMiDgDoXL3w3dGbRa0CqytcD17DtVXiR5KCo3pDjnb_FLEGpZVcQ80A7zZ2JiTrA7BkeOfn3lPogvPmWJ5wI6jRAE3ZTGkmLEV2WA-r_-BqrTE9rY1gLJ34E=s200"  group-title="MX-TV",SHEMAROO TV (IN)
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",T-Sports
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Gtv
+http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Somoy tv
+http://103.55.144.46/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Independent tv
+http://103.55.144.46/hls/indepen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Cannel I
+http://103.55.144.46/hls/channeli.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Masranga tv
+http://103.55.144.46/hls/masranga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nexus
+http://103.55.144.46/hls/nexus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Jalsha HD
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Bangla HD
+http://103.55.144.46/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Bangla
+http://103.55.144.46/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sun Bangla
+http://103.55.144.46/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Colors Bangla Cinema
+http://103.55.144.46/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Jalsha Movies HD
+http://103.55.144.46/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-1
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-2
+http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-1
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-2
+http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sony Six
+http://103.55.144.46/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-1
+http://103.55.144.46/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-2
+http://103.55.144.46/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-3
+http://103.55.144.46/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery HD
+http://103.55.144.46/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
+http://103.55.144.46/hls/ngohd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Travel Xp
+http://103.55.144.46/hls/travelxp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",BBC Earth
+http://103.55.144.46/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Animal Planet
+http://103.55.144.46/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nick
+http://103.55.144.46/hls/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",CN
+http://103.55.144.46/hls/cn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Pogo
+http://103.55.144.46/hls/pogo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Movies
+http://103.55.144.46/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony Pix
+http://103.55.144.46/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Movies Now
+http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",MN+
+http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",UTV Action
+http://103.55.144.46/hls/utvaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Cinema HD
+http://103.55.144.46/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Gold HD
+http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Max HD
+http://103.55.144.46/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Cineplex
+http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony tv
+http://103.55.144.46/hls/sonyen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",&Pictures
+http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zoom
+http://103.55.144.46/hls/zoom.m3u8
+
+
+
 
 
 
@@ -714,6 +953,211 @@ http://30.30.30.30/live/skyfeed1047/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Special BDIX",Ch-1
+http://103.149.130.122:8089/1/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-2
+http://103.149.130.122:8089/2/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-3 
+http://103.149.130.122:8089/3/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-4
+http://103.149.130.122:8089/4/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-5
+http://103.149.130.122:8089/5/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-6
+http://103.149.130.122:8089/6/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-7
+http://103.149.130.122:8089/7/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-8
+http://103.149.130.122:8089/8/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-9
+http://103.149.130.122:8089/9/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-10
+http://103.149.130.122:8089/10/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-11
+http://103.149.130.122:8089/11/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-12
+http://103.149.130.122:8089/12/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-13
+http://103.149.130.122:8089/13/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-14
+http://103.149.130.122:8089/14/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-15
+http://103.149.130.122:8089/15/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-16
+http://103.149.130.122:8089/16/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-17
+http://103.149.130.122:8089/17/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-18
+http://103.149.130.122:8089/18/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-19
+http://103.149.130.122:8089/19/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-20
+http://103.149.130.122:8089/20/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-21
+http://103.149.130.122:8089/21/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-22
+http://103.149.130.122:8089/22/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-23
+http://103.149.130.122:8089/23/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-24
+http://103.149.130.122:8089/24/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-25
+http://103.149.130.122:8089/25/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-26
+http://103.149.130.122:8089/26/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-27
+http://103.149.130.122:8089/27/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-28
+http://103.149.130.122:8089/28/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-29
+http://103.149.130.122:8089/29/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-30
+http://103.149.130.122:8089/30/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-31
+http://103.149.130.122:8089/31/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-32
+http://103.149.130.122:8089/32/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-33
+http://103.149.130.122:8089/33/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-34
+http://103.149.130.122:8089/34/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-35
+http://103.149.130.122:8089/35/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-36
+http://103.149.130.122:8089/36/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-37
+http://103.149.130.122:8089/37/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-38
+http://103.149.130.122:8089/38/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-39
+http://103.149.130.122:8089/39/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-40
+http://103.149.130.122:8089/40/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-41
+http://103.149.130.122:8089/41/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-42
+http://103.149.130.122:8089/42/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-43
+http://103.149.130.122:8089/43/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-44
+http://103.149.130.122:8089/44/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-45
+http://103.149.130.122:8089/45/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-46
+http://103.149.130.122:8089/46/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-47
+http://103.149.130.122:8089/47/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-48
+http://103.149.130.122:8089/48/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-49
+http://103.149.130.122:8089/49/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-50
+http://103.149.130.122:8089/50/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-51
+http://103.149.130.122:8089/51/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-52
+http://103.149.130.122:8089/52/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-53
+http://103.149.130.122:8089/53/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-54
+http://103.149.130.122:8089/54/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-55
+http://103.149.130.122:8089/55/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-56
+http://103.149.130.122:8089/56/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-57
+http://103.149.130.122:8089/57/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-58
+http://103.149.130.122:8089/58/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-59
+http://103.149.130.122:8089/59/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-60
+http://103.149.130.122:8089/60/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-61
+http://103.149.130.122:8089/61/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-62
+http://103.149.130.122:8089/62/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-63
+http://103.149.130.122:8089/63/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-64
+http://103.149.130.122:8089/64/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-65
+http://103.149.130.122:8089/65/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-66
+http://103.149.130.122:8089/66/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-67
+http://103.149.130.122:8089/67/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-68
+http://103.149.130.122:8089/68/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-69
+http://103.149.130.122:8089/69/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-70
+http://103.149.130.122:8089/70/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-71
+http://103.149.130.122:8089/71/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-72
+http://103.149.130.122:8089/72/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-73
+http://103.149.130.122:8089/73/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-74
+http://103.149.130.122:8089/74/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-75
+http://103.149.130.122:8089/75/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-76
+http://103.149.130.122:8089/76/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-77
+http://103.149.130.122:8089/77/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-78
+http://103.149.130.122:8089/78/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-79
+http://103.149.130.122:8089/79/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-80
+http://103.149.130.122:8089/80/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-81
+http://103.149.130.122:8089/81/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-82
+http://103.149.130.122:8089/82/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-83
+http://103.149.130.122:8089/83/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-84
+http://103.149.130.122:8089/84/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-85
+http://103.149.130.122:8089/85/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-86
+http://103.149.130.122:8089/86/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-87
+http://103.149.130.122:8089/87/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-88
+http://103.149.130.122:8089/88/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-89
+http://103.149.130.122:8089/89/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-90
+http://103.149.130.122:8089/90/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-91
+http://103.149.130.122:8089/91/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-92
+http://103.149.130.122:8089/92/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-93
+http://103.149.130.122:8089/93/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-94
+http://103.149.130.122:8089/94/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-95
+http://103.149.130.122:8089/95/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-96
+http://103.149.130.122:8089/96/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-97
+http://103.149.130.122:8089/97/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-98
+http://103.149.130.122:8089/98/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-99
+http://103.149.130.122:8089/99/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-100
+http://103.149.130.122:8089/100/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-101
+http://103.149.130.122:8089/101/index.m3u8
+#EXTINF:-1 group-title="Special BDIX",Ch-102
+http://103.149.130.122:8089/102/index.m3u8
+
 
 
 
@@ -860,197 +1304,6 @@ http://103.159.4.38:5868/MOVIE-6/tracks-v1a1/mono.m3u8
 
 
 
-******ICC-1*****
-
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor HD" tvg-logo="" group-title="ICC Server TV",Ekattor HD
-http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="ICC Server TV",NTV
-http://10.16.100.245/hindi/ntv_1sT0p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="ICC Server TV",RTV
-http://10.16.100.245/hindi/R_tv_1st0p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="ICC Server TV",ATN News
-http://10.16.100.245/hindi/atNnews_1st0p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="ICC Server TV",Banglavision HD
-http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV HD" tvg-logo="" group-title="ICC Server TV",Bijoy TV HD
-http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="" group-title="ICC Server TV",Channel 24
-http://10.16.100.245/hindi/channeL24_1st0p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="" group-title="ICC Server TV",DBC News HD
-http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="ICC Server TV",Desh TV
-http://10.16.100.245/hindi/de$htv_1st0p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="ICC Server TV",Ekushey TV
-http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAZI TV HD" tvg-logo="" group-title="ICC Server TV",GAZI TV HD
-http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="ICC Server TV",T-Sports
-http://10.16.100.245/hindi/Tsport$local.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="" group-title="ICC Server TV",Jamuna TV
-http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV HD" tvg-logo="" group-title="ICC Server TV",Mohona TV HD
-http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="ICC Server TV",My TV HD
-http://10.16.100.208:8082/hindi/mytV_1$stop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="ICC Server TV",ATN Bangla
-http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV HD" tvg-logo="" group-title="ICC Server TV",Asian TV HD
-http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV HD" tvg-logo="" group-title="ICC Server TV",Deepto TV HD
-http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="" group-title="ICC Server TV",Bangla TV HD
-http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="ICC Server TV",Channel i HD
-http://10.16.100.203:8082/bangla/chenel_I.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GaanBangla HD" tvg-logo="" group-title="ICC Server TV",GaanBangla HD
-http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="" group-title="ICC Server TV",Sony Aath
-http://10.16.100.204:8082/hls/s0ny8aat.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="ICC Server TV",Colors Bangla
-http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee  Bangla" tvg-logo="" group-title="ICC Server TV",Zee  Bangla
-http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha IN" tvg-logo="" group-title="ICC Server TV",Star Jalsha
-http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="" group-title="ICC Server TV",T-Sports-2
-http://10.16.100.245/hindi/Tsport$local.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi HD 2" tvg-logo="" group-title="ICC Server TV",Gazi HD 2
-http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="" group-title="ICC Server TV",Sony Ten 1
-http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="" group-title="ICC Server TV",Sony Ten 2
-http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="" group-title="ICC Server TV",Sony Ten 3
-http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 3" tvg-logo="" group-title="ICC Server TV",Sony Six HD
-http://10.16.100.207:8082/sports/s0ny6six.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports-1
-http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports-2
-http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports Select-1
-http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports Select-2
-http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",PTV Sports
-http://10.16.100.245/hindi/pTvSp0rts.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Digi Bangla 24 HD" tvg-logo="" group-title="ICC Server TV",Digi Bangla 24 HD
-http://10.16.100.203:8082/bangla/digibangla24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Khusboo Bangla" tvg-logo="" group-title="ICC Server TV",Khusboo Bangla
-http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="ICC Server TV",Sangeet Bangla
-http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&Pictures HD" tvg-logo="" group-title="ICC Server TV",&Pictures HD
-http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wow Cinema" tvg-logo="" group-title="ICC Server TV",Wow Cinema
-http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&TV" tvg-logo="" group-title="ICC Server TV",&TV
-http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="" group-title="ICC Server TV",Colors
-http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="" group-title="ICC Server TV",Star Plus
-http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
-
-
-
-
-
-******BD Server-2*****
-#EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi [Server-2]",JAMUNA TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi [Server-2]",Channel 24
-https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="Bangladeshi [Server-2]",News 24
-https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:0 tvg-logo="https://megaflix.tv/uploads/tv_image/somoy-tv.png" group-title="Bangladeshi [Server-2]",Somoy News
-https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangladeshi [Server-2]",DBC News
-https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangladeshi [Server-2]",Maasranga
-https://rhridoy136.shortcm.li/maasrangatv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi [Server-2]",Independent
-https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi [Server-2]",Channel I
-https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi [Server-2]",RTV
-https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangladeshi [Server-2]",Boishakhi
-https://rhridoy136.shortcm.li/boishakhitv.m3u8
-#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Desh-TV.png" group-title="Bangladeshi [Server-2]",Desh Tv
-https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="Bangladeshi [Server-2]",Banglavision
-https://rhridoy136.shortcm.li/banglavisiontv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="Bangladeshi [Server-2]",ATN NEWS
-https://rhridoy136.shortcm.li/atnnews.m3u8
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="Bangladeshi [Server-2]",ATN Bangla
-https://rhridoy136.shortcm.li/atnbangla.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi [Server-2]",My TV
-https://rhridoy136.shortcm.li/mytv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi [Server-2]",SATV
-https://rhridoy136.shortcm.li/satv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangladeshi [Server-2]",Deepto TV
-https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangladeshi [Server-2]",GTV
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangladeshi [Server-2]",BTV World
-https://rhridoy136.shortcm.li/btvworld.m3u8
-
-
-
-
-
-******DIRECT******
-#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR BHARAT HD (IN)
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE TV (UK)
-http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE TV HD (IN)
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",SAHARA ONE (IN)
-http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",UTV HD (IN)
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD 2 (IN)
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE CINEMA HD (IN)
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE CLASSIC (IN)
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE ACTION (IN)
-http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV" tvg-logo="SONY MAX 2",SONY MAX 2 (IN)
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (IN)
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",E24 (IN)
-http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="STREAM",B4U MUSIC (IN)
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",MTV (IN)
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",MTV BEATS HD (IN)
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (UK)
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",UTV ACTION (IN)
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-
 
 
 
@@ -1166,7 +1419,6 @@ http://45.127.244.7:8080/hls/channel14.m3u8
 http://45.127.244.7:8080/hls/channel15.m3u8
 #EXTINF:-202   group-title="dnf",BD: 16
 http://45.127.244.7:8080/hls/channel16.m3u8
-
 #EXTINF:-1   group-title="dnf",BD: 17
 http://172.50.50.66:8080/17/index.m3u8
 #EXTINF:-1   group-title="dnf",BD: 18
@@ -1240,95 +1492,7 @@ http://172.50.50.66:8080/50/index.m3u8
 
 
 
-******m-c15-j2apps*****
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",FILMY (IN)
-https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",FIRANGI (IN)
-https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",BIXFLIX MOVIES (IN)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",BOX CINEMA (IN)
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MANORANJAN MOVIES (IN)
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MAHA MOVIE (IN)
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MOVIE PLUS (IN)
-https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",BOLLYWOOD (IN)
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",EPIC (IN)
-https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",DISHUM (UK)
-https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",DD NATIONAL (IN)
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",ANJAN TV (IN)
-https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MASTIII (IN)
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",SHOW MUSIC (IN)
-https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",MUSIC INDIA (IN)
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",NEWS NATION (IN)
-https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",INDIA TV (IN)
-https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",DD ASSAM (IN)
-https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",DD KASHIR (IN)
-https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",9X JALWA (IN)
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",,9XM (IN)
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-#EXTINF:-1 ch-id="FILMY (IN)" tvg-logo=""  group-title="MX-TV",GULISTAN NEWS (IN)
-https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
-#EXTINF:-1 ch-id="NEWS X (IN)" tvg-logo="https://1.bp.blogspot.com/-0IxLqpt1Ngw/YOv4JNIWNbI/AAAAAAAAAW4/rUxiYo50ne8OJRHXkVdX4hXuDuCMd6VqACLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg"  group-title="MX-TV",NEWS X (IN)
-https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
-#EXTINF:-1 ch-id="NEWS INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-l9btGw2epVM/YOv2ZdAGNsI/AAAAAAAAAWc/_Ig6xApZ3_QC_8pkd_iSMzCuV5E3gSCWACLcBGAsYHQ/s200/images%2B%25289%2529%25281%2529.jpeg"  group-title="MX-TV",NEWS INDIA (IN)
-https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1 ch-id="NEWS INDIA 24X7 (IN)" tvg-logo="https://1.bp.blogspot.com/-kZa8bOjRYGQ/YP_gubP-oMI/AAAAAAAAApk/uMV_Q5wWFVgJatRsklNM3FyaiOJ9nNwUwCLcBGAsYHQ/s200/NEWS-INDIA-ipd-logo.png"  group-title="MX-TV",NEWS INDIA 24X7 (IN)
-https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
-#EXTINF:-1 ch-id="JANATA TV (IN)" tvg-logo="https://1.bp.blogspot.com/-Gd-BKUae8Ok/YP_hnwxlWsI/AAAAAAAAAps/O23Pi1lTgMwx6Qs6GOnLKnj93VRUR1Y_ACLcBGAsYHQ/s200/images%2B%25282%2529.png"  group-title="MX-TV",JANATA TV (IN)
-https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
-#EXTINF:-1 ch-id="SAMAY (IN)" tvg-logo="https://1.bp.blogspot.com/-80B24drS7bc/YP_iz8utazI/AAAAAAAAAp8/yGfb46TwQgMe6plm7rsAFqFHEBk4GILiACLcBGAsYHQ/s200/IMG_20210724_112234.jpg"  group-title="MX-TV",SAMAY (IN)
-https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in.m3u8
-#EXTINF:-1 ch-id="A1 TV (IN)" tvg-logo="https://1.bp.blogspot.com/-hXstI0S8phQ/YOrSHpdfQTI/AAAAAAAAAUk/Wuv2_YMcqmcFkLcXremc-cPXc3z2EQCWQCLcBGAsYHQ/s200/images%2B%25281%2529%25281%2529.jpeg"  group-title="MX-TV",A1 TV (IN)
-https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in.m3u8
-#EXTINF:-1 ch-id="IBC 24 (IN)" tvg-logo="https://1.bp.blogspot.com/-_09nJ0v0Q8o/YP_jGjJB4tI/AAAAAAAAAqE/c9AiCIzJY7sD_3GYuCwDOjd8bqlzU8agACLcBGAsYHQ/s200/images%2B%25289%2529%25282%2529.jpeg"  group-title="MX-TV",IBC 24 (IN)
-https://m-c18-j2apps.s.llnwi.net/hls/0519.IBC24.in.m3u8
-#EXTINF:-1 ch-id="ABP NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-7V_aMzQ4LZY/YOxKPu1uAuI/AAAAAAAAAbE/5n85ElNXJuUzWpV2F6WhPeYtZUSo6auQACLcBGAsYHQ/s200/images%2B%252810%2529.jpeg"  group-title="MX-TV",ABP NEWS (IN)
-https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
-#EXTINF:-1 ch-id="CVR NEWS (IN)" tvg-logo="https://1.bp.blogspot.com/-VHv0px0qYws/YP_ju_pL2aI/AAAAAAAAAqM/H9xP46oSYNwdM4zc6hqICvvfoi0BBfvawCLcBGAsYHQ/s200/images%2B%25284%2529%25281%2529.jpeg"  group-title="MX-TV",CVR NEWS (IN)
-https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
-#EXTINF:-1 ch-id="SADHNA PLUS (IN)" tvg-logo="https://1.bp.blogspot.com/-KxwvvnxlrbE/YOrLf5eRyBI/AAAAAAAAASo/GWl9NDMfMnwcWJNzSJLtJXm4iEvIKT0ogCLcBGAsYHQ/s200/images%2B%25287%2529.jpeg"  group-title="MX-TV",SADHNA PLUS (IN)
-https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
-#EXTINF:-1 ch-id="K NEWS 24X7 (IN)" tvg-logo="https://1.bp.blogspot.com/-PQeSecwaWrQ/YP_kuN0kJqI/AAAAAAAAAqU/GKOXPOphVREP7DdpGk4VCRe0EYMcqEBkgCLcBGAsYHQ/s200/wY6hCdz8.png"  group-title="MX-TV",K NEWS 24X7 (IN)
-https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
-#EXTINF:-1 ch-id="HINDI KHABAR (IN)" tvg-logo="https://1.bp.blogspot.com/-6U1zJC1x50A/YP_lHn9Kf8I/AAAAAAAAAqc/CpeLEmQ5IrksCIndQZa3lXdkdyY6dmxhACLcBGAsYHQ/s200/images%2B%25281%2529.png"  group-title="MX-TV",HINDI KHABAR (IN)
-https://m-c02-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in.m3u8
-#EXTINF:-1 ch-id="DD INDIA (IN)" tvg-logo="https://1.bp.blogspot.com/-1Os1WZ12t4Y/YP_l0hzbfzI/AAAAAAAAAqk/h6F8zVuOaR0vyZQnQUTvTqwqyQjUyxaIgCLcBGAsYHQ/s200/download.jpeg"  group-title="MX-TV",DD INDIA (IN)
-https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
-#EXTINF:-1 ch-id="SURYA SAMACHAR (IN)" tvg-logo="https://1.bp.blogspot.com/-gTdOcicrApI/YP_md5DMvcI/AAAAAAAAAqs/KMQyUhvJ-40nN_M4eDh7bLN2ICA65Z_ggCLcBGAsYHQ/s200/images%2B%25281%2529%25282%2529.jpeg"  group-title="MX-TV",SURYA SAMACHAR (IN)
-https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
-#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo="https://1.bp.blogspot.com/-P3WxrscYQHw/YP_nTMSyINI/AAAAAAAAAq8/VyFGwtvv3MIc_HQrxcoSO38kJOqyL1sawCLcBGAsYHQ/s200/images.jpeg"  group-title="MX-TV",FOOD FOOD (IN)
-https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
-#EXTINF:-1 ch-id="DW (IN)" tvg-logo="https://1.bp.blogspot.com/-7V-KhSpqQ2Y/YN3Nz-MvOgI/AAAAAAAAAJY/bBM1UQtxdD4NBxpIe0OU423YETw8kj55gCLcBGAsYHQ/s532/PicsArt_07-01-05.48.35.jpg"  group-title="MX-TV",DW (IN)
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTINF:-1 ch-id="FRANCE24 (IN)" tvg-logo=" "  group-title="MX-TV",FRANCE24 (IN)
-https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
-#EXTINF:-1 ch-id="EURO NEWS (UK)" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg"  group-title="MX-TV",EURO NEWS (UK)
-https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
-#EXTINF:-1 ch-id="DD RETRO (IN)" tvg-logo="https://1.bp.blogspot.com/-CmDquca6_hU/YP_n6_YUkQI/AAAAAAAAArE/xWjM6XfTAKQfrtyNW-t8c60NB1wwbw9yACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg"  group-title="MX-TV",DD RETRO (IN)
-https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in/index.m3u8
-#EXTINF:-1 ch-id="SANSKAR (IN)" tvg-logo="https://1.bp.blogspot.com/-w1k6705blqQ/YP_ovgM0A0I/AAAAAAAAArM/eAI0rCEIv8AozAMJ6zzczUzjc6CKbfQfwCLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg"  group-title="MX-TV",SANSKAR (IN)
-https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
-#EXTINF:-1 ch-id="ISHWAR TV (IN)" tvg-logo="https://1.bp.blogspot.com/-NOBjZCLGszM/YP_pb-k4B2I/AAAAAAAAArU/K-zF7ya8SXgzs4DOUIzbRMn1x-HD3CJbgCLcBGAsYHQ/s200/download%25283%2529.png"  group-title="MX-TV",ISHWAR TV (IN)
-https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
-#EXTINF:-1 ch-id="SHEMAROO TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiAeNnLczA1oLBfDLfdTSWreu-WeFuD2BdbbiiYPyyI_BzBpWbI2fKy0b3ZMgZeG4tNzMiDgDoXL3w3dGbRa0CqytcD17DtVXiR5KCo3pDjnb_FLEGpZVcQ80A7zZ2JiTrA7BkeOfn3lPogvPmWJ5wI6jRAE3ZTGkmLEV2WA-r_-BqrTE9rY1gLJ34E=s200"  group-title="MX-TV",SHEMAROO TV (IN)
-https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
+
 
 
 
@@ -1869,9 +2033,6 @@ http://live.flixhub.net/hls/sonyen.m3u8
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zoom
 http://live.flixhub.net/hls/zoom.m3u8
-
-
-
 
 
 
@@ -2570,55 +2731,6 @@ http://85.203.33.88/live/xIJYJ5P6113/Z80Gk09755/6236.m3u8
 
 
 
-******RD Redoy*****
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="RH Redoy Server",Banglavision HD
-https://rhridoy136.shortcm.li/banglavisiontv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="RH Redoy Server",Independent TV
-https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jumuna TV" tvg-logo="" group-title="RH Redoy Server",Jumuna TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="" group-title="RH Redoy Server",Channel 24
-https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="" group-title="RH Redoy Server",News 24 HD
-https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="RH Redoy Server",Somoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="" group-title="RH Redoy Server",DBC News HD
-https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="RH Redoy Server",Channel i HD
-https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="RH Redoy Server",NTV
-https://rhridoy136.shortcm.li/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="RH Redoy Server",RTV
-https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="" group-title="RH Redoy Server",Maasranga TV HD
-https://rhridoy136.shortcm.li/maasrangatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="RH Redoy Server",Desh TV
-https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GaanBangla TV" tvg-logo="" group-title="RH Redoy Server",GaanBangla TV
-https://rhridoy136.shortcm.li/gaanbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="RH Redoy Server",ATN News
-https://rhridoy136.shortcm.li/atnnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="RH Redoy Server",ATN Bangla
-https://rhridoy136.shortcm.li/atnbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="RH Redoy Server",My TV HD
-https://rhridoy136.shortcm.li/mytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="RH Redoy Server",SATV HD
-https://rhridoy136.shortcm.li/satv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="RH Redoy Server",Deepto TV
-https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="" group-title="RH Redoy Server",BTV World
-https://rhridoy136.shortcm.li/btvworld.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="RH Redoy Server",Ekushey TV
-https://rhridoy136.shortcm.li/ekusheytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo="" group-title="RH Redoy Server",Bijoy TV
-https://rhridoy136.shortcm.li/bijoytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="" group-title="RH Redoy Server",Mohona TV
-https://rhridoy136.shortcm.li/mohonatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="" group-title="RH Redoy Server",Boishakhi TV
-https://rhridoy136.shortcm.li/boishakhitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9 2" tvg-logo="" group-title="RH Redoy Server",Channel 9 2
-https://rhridoy136.shortcm.li/channel9.m3u8
 
 
 
@@ -2726,6 +2838,7 @@ https://cdn.cinemabaaz.live/RedBullTVHD/tracks-v1a1/mono.m3u8
 https://cdn.cinemabaaz.live/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="CinemaBazz Server",Sony Max HD
 https://cdn.cinemabaaz.live/SonyMaxHD/mono.m3u8
+
 
 
 
@@ -2853,319 +2966,6 @@ http://103.205.133.48/hls/chst2.m3u8
 http://103.205.133.48/hls/chst3.m3u8
 
 
-
-
-
-########## India ##########
-
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM IN" tvg-logo="" group-title="India",9XM IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/4009
-#EXTINF:-1 tvg-id="" tvg-name="& Pictures IN" tvg-logo="" group-title="India",& Pictures IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10622
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="9X Tashan IN" tvg-logo="" group-title="India",9X Tashan IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10617
-#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News IN" tvg-logo="" group-title="India",ABP News IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3998
-#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies IN" tvg-logo="" group-title="India",Asianet Movies IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5577
-#EXTINF:-1 tvg-id="asianet.in" tvg-name="Asianet News IN" tvg-logo="" group-title="India",Asianet News IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5578
-#EXTINF:-1 tvg-id="" tvg-name="Asianet Plus IN" tvg-logo="" group-title="India",Asianet Plus IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5576
-#EXTINF:-1 tvg-id="" tvg-name="Anand IN" tvg-logo="" group-title="India",Anand IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10595
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak News IN" tvg-logo="" group-title="India",Aaj Tak News IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/11294
-#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha TV IN" tvg-logo="" group-title="India",Aastha TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/11297
-#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U Movies IN" tvg-logo="http://pici.life/IN/b4u.png" group-title="India",B4U Movies IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672302
-#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music IN" tvg-logo="" group-title="India",B4U Music IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3993
-#EXTINF:-1 tvg-id="" tvg-name="B4u+ IN" tvg-logo="" group-title="India",B4u+ IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672304
-#EXTINF:-1 tvg-id="" tvg-name="B4u kadak IN" tvg-logo="" group-title="India",B4u kadak IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672305
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla IN" tvg-logo="" group-title="India",ATN Bangla IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10610
-#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla IN" tvg-logo="" group-title="India",Movie Bangla IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10613
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood Movies IN" tvg-logo="" group-title="India",Bollywood Movies IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/4007
-#EXTINF:-1 tvg-id="chardiklatimetv.in" tvg-name="Chardikla Time TV IN" tvg-logo="" group-title="India",Chardikla Time TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5563
-#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors [UK] FHD VIP IN" tvg-logo="http://pici.life/IN/Colors.in.png" group-title="India",Colors [UK] FHD VIP IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672308
-#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors HD IN" tvg-logo="" group-title="India",Colors HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/651513
-#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors [B] HD IN" tvg-logo="" group-title="India",Colors [B] HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5579
-#EXTINF:-1 tvg-id="" tvg-name="Desi Channel Punjabi IN" tvg-logo="" group-title="India",Desi Channel Punjabi IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/4005
-#EXTINF:-1 tvg-id="" tvg-name="Deepto IN" tvg-logo="" group-title="India",Deepto IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10624
-#EXTINF:-1 tvg-id="dhoommusic.in" tvg-name="Dhoom Music IN" tvg-logo="" group-title="India",Dhoom Music IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10599
-#EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today IN" tvg-logo="" group-title="India",India Today IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5561
-#EXTINF:-1 tvg-id="indiatv.in" tvg-name="India TV IN" tvg-logo="" group-title="India",India TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5562
-#EXTINF:-1 tvg-id="" tvg-name="Independent TV IN" tvg-logo="" group-title="India",Independent TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10600
-#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max USA IN" tvg-logo="" group-title="India",Jaya Max USA IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5582
-#EXTINF:-1 tvg-id="" tvg-name="Jaya Movies IN" tvg-logo="" group-title="India",Jaya Movies IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5581
-#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus IN" tvg-logo="" group-title="India",Jaya Plus IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5580
-#EXTINF:-1 tvg-id="janamtv.in" tvg-name="Jamuna TV IN" tvg-logo="" group-title="India",Jamuna TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10601
-#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV IN" tvg-logo="" group-title="India",Jaya TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5583
-#EXTINF:-1 tvg-id="" tvg-name="KTV HD IN" tvg-logo="" group-title="India",KTV HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5560
-#EXTINF:-1 tvg-id="livingfoodz.in" tvg-name="Living Foodz IN" tvg-logo="" group-title="India",Living Foodz IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10612
-#EXTINF:-1 tvg-id="" tvg-name="MTV India IN" tvg-logo="" group-title="India",MTV India IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5556
-#EXTINF:-1 tvg-id="" tvg-name="M Tunes IN" tvg-logo="" group-title="India",M Tunes IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5584
-#EXTINF:-1 tvg-id="maagold.in" tvg-name="Maa Gold IN" tvg-logo="" group-title="India",Maa Gold IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5586
-#EXTINF:-1 tvg-id="maamovies.in" tvg-name="Maa Movies IN" tvg-logo="" group-title="India",Maa Movies IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5585
-#EXTINF:-1 tvg-id="moviesok.in" tvg-name="Movies OK IN" tvg-logo="" group-title="India",Movies OK IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5558
-#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV Beats IN" tvg-logo="" group-title="India",MTV Beats IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5557
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV IN" tvg-logo="" group-title="India",Mohona TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10587
-#EXTINF:-1 tvg-id="" tvg-name="NTV IN" tvg-logo="" group-title="India",NTV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10602
-#EXTINF:-1 tvg-id="" tvg-name="NTV Europe IN" tvg-logo="" group-title="India",NTV Europe IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10603
-#EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="NDTV 24x7 HD IN" tvg-logo="" group-title="India",NDTV 24x7 HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/19491
-#EXTINF:-1 tvg-id="" tvg-name="NTV HD IN" tvg-logo="" group-title="India",NTV HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10589
-#EXTINF:-1 tvg-id="ptcchakde.in" tvg-name="PTC Chakde IN" tvg-logo="" group-title="India",PTC Chakde IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5553
-#EXTINF:-1 tvg-id="ptcnews.in" tvg-name="PTC News Punjabi IN" tvg-logo="" group-title="India",PTC News Punjabi IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5555
-#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PTC Punjabi Gold IN" tvg-logo="" group-title="India",PTC Punjabi Gold IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5554
-#EXTINF:-1 tvg-id="rajdigital plus.in" tvg-name="Raj Digital Plus IN" tvg-logo="" group-title="India",Raj Digital Plus IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5551
-#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix IN" tvg-logo="" group-title="India",Raj Musix IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5550
-#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="Raj News 24x7 IN" tvg-logo="" group-title="India",Raj News 24x7 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5549
-#EXTINF:-1 tvg-id="rajtv.in" tvg-name="Raj TV IN" tvg-logo="" group-title="India",Raj TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5552
-#EXTINF:-1 tvg-id="rishteycineplex.in" tvg-name="Rishtey Color IN" tvg-logo="" group-title="India",Rishtey Color IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/11295
-#EXTINF:-1 tvg-id="rishtey.in" tvg-name="Rishtey Europe IN" tvg-logo="" group-title="India",Rishtey Europe IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/11296
-#EXTINF:-1 tvg-id="" tvg-name="RTV HD IN" tvg-logo="" group-title="India",RTV HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10626
-#EXTINF:-1 tvg-id="" tvg-name="Santhora TV IN" tvg-logo="" group-title="India",Santhora TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5564
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Saab FHD VIP IN" tvg-logo="http://pici.life/IN/SonySab.in.png" group-title="India",Sony Saab FHD VIP IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672322
-#EXTINF:-1 tvg-id="sonysab.in" tvg-name="Sony Saab TV IN" tvg-logo="" group-title="India",Sony Saab TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3987
-#EXTINF:-1 tvg-id="sonysab.in" tvg-name="Sony Sab (UK) IN" tvg-logo="http://pici.life/IN/SonySab.in.png" group-title="India",Sony Sab (UK) IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672323
-#EXTINF:-1 tvg-id="" tvg-name="Sony Set Max FHD IN VIP" tvg-logo="http://pici.life/IN/sonytv.png" group-title="India",Sony Set Max FHD IN VIP
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672324
-#EXTINF:-1 tvg-id="sonymix.in" tvg-name="Sony MIX HD IN" tvg-logo="" group-title="India",Sony MIX HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3988
-#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max IN" tvg-logo="" group-title="India",Sony Max IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3990
-#EXTINF:-1 tvg-id="sonymax2.in" tvg-name="Sony Max 2 IN" tvg-logo="" group-title="India",Sony Max 2 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3989
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max UK IN" tvg-logo="http://pici.life/IN/sonymax_2.png" group-title="India",Sony Max UK IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672321
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="India",Sony Pix HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10607
-#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix IN" tvg-logo="" group-title="India",Sony Pix IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10606
-#EXTINF:-1 tvg-id="sony.in" tvg-name="Sony [UK] HD IN" tvg-logo="" group-title="India",Sony [UK] HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10609
-#EXTINF:-1 tvg-id="sonysix.in" tvg-name="Sony Six HD IN" tvg-logo="" group-title="India",Sony Six HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3985
-#EXTINF:-1 tvg-id="" tvg-name="Sony HD IN" tvg-logo="" group-title="India",Sony HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5574
-#EXTINF:-1 tvg-id="sony.in" tvg-name="Sony TV IN" tvg-logo="" group-title="India",Sony TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3984
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK IN" tvg-logo="" group-title="India",Sony TV UK IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/13175
-#EXTINF:-1 tvg-id="sonysix.in" tvg-name="Sony Six IN" tvg-logo="" group-title="India",Sony Six IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5548
-#EXTINF:-1 tvg-id="sonyten1.in" tvg-name="Sony Ten 1 IN" tvg-logo="http://pici.life/IN/SonyTen1.png" group-title="India",Sony Ten 1 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672325
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="http://pici.life/IN/SonyTen2.png" group-title="India",Sony Ten 2 HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672444
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 IN" tvg-logo="http://pici.life/IN/Sony_Ten_3.png" group-title="India",Sony Ten 3 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672445
-#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Waha FHD IN" tvg-logo="http://pici.life/IN/Sony_Waha.png" group-title="India",Sony Waha FHD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672446
-#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal FHD VIP IN" tvg-logo="" group-title="India",Sony Pal FHD VIP IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/676908
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD IN" tvg-logo="http://pici.life/IN/StarPlus.in.png" group-title="India",Star Plus HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672450
-#EXTINF:-1 tvg-id="starplus.in" tvg-name="Star Plus [UK] IN" tvg-logo="" group-title="India",Star Plus [UK] IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/13174
-#EXTINF:-1 tvg-id="stargold.in" tvg-name="Star Gold HD IN" tvg-logo="" group-title="India",Star Gold HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3983
-#EXTINF:-1 tvg-id="starjalsha.in" tvg-name="Star Jalsha IN" tvg-logo="" group-title="India",Star Jalsha IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3982
-#EXTINF:-1 tvg-id="starmovies.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="India",Star Movies HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3981
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies IN" tvg-logo="http://pici.life/IN/StarMovies.png" group-title="India",Star Movies IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672448
-#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 IN" tvg-logo="" group-title="India",Star Sports 1 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3979
-#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 IN" tvg-logo="" group-title="India",Star Sports 2 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/397844
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 IN" tvg-logo="" group-title="India",Star Sports 3 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3977
-#EXTINF:-1 tvg-id="starbharat.in" tvg-name="Star Bharat IN" tvg-logo="" group-title="India",Star Bharat IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5544
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat (UK) IN" tvg-logo="http://pici.life/IN/Star_Bharat.png" group-title="India",Star Bharat (UK) IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672447
-#EXTINF:-1 tvg-id="" tvg-name="Star Vijay IN" tvg-logo="" group-title="India",Star Vijay IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5545
-#EXTINF:-1 tvg-id="sunmusic.in" tvg-name="Sun Music IN" tvg-logo="" group-title="India",Sun Music IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3975
-#EXTINF:-1 tvg-id="suntv.in" tvg-name="Sun TV IN" tvg-logo="" group-title="India",Sun TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3974
-#EXTINF:-1 tvg-id="suntv.in" tvg-name="Sun TV [US] IN" tvg-logo="" group-title="India",Sun TV [US] IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3973
-#EXTINF:-1 tvg-id="" tvg-name="Somoy News TV IN" tvg-logo="" group-title="India",Somoy News TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10605
-#EXTINF:-1 tvg-id="" tvg-name="Ten 1 HD IN" tvg-logo="" group-title="India",Ten 1 HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3972
-#EXTINF:-1 tvg-id="" tvg-name="Ten 2 HD IN" tvg-logo="" group-title="India",Ten 2 HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5589
-#EXTINF:-1 tvg-id="tencricket.in" tvg-name="Ten 3 HD IN" tvg-logo="" group-title="India",Ten 3 HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5590
-#EXTINF:-1 tvg-id="utvaction.in" tvg-name="Ten Sports IN" tvg-logo="" group-title="India",Ten Sports IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10608
-#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="UTV Movies HD IN" tvg-logo="" group-title="India",UTV Movies HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5542
-#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="UTV Movies US IN" tvg-logo="" group-title="India",UTV Movies US IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10615
-#EXTINF:-1 tvg-id="" tvg-name="UTV Bindas IN" tvg-logo="" group-title="India",UTV Bindas IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5541
-#EXTINF:-1 tvg-id="" tvg-name="Willow IN" tvg-logo="" group-title="India",Willow IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10631
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema FHD IN" tvg-logo="" group-title="India",Zee Cinema FHD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/4002
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema IN" tvg-logo="" group-title="India",Zee Cinema IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3967
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema IN" tvg-logo="" group-title="India",Zee Cinema IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3968
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema (USA) IN" tvg-logo="http://pici.life/IN/ZeeCinema.in.png" group-title="India",Zee Cinema (USA) IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672452
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema Inter IN" tvg-logo="" group-title="India",Zee Cinema Inter IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/4001
-#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action HD IN" tvg-logo="" group-title="India",Zee Action HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3971
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema IN" tvg-logo="" group-title="India",Zee Anmol Cinema IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3970
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD IN" tvg-logo="http://pici.life/IN/ZeeTV.in.png" group-title="India",Zee TV HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672459
-#EXTINF:-1 tvg-id="zeetv.in" tvg-name="Zee TV IN" tvg-logo="" group-title="India",Zee TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/4000
-#EXTINF:-1 tvg-id="zeetv.in" tvg-name="Zee TV US HD IN" tvg-logo="" group-title="India",Zee TV US HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/20912
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV UK IN" tvg-logo="http://pici.life/IN/ZeeTV.in.png" group-title="India",Zee TV UK IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672458
-#EXTINF:-1 tvg-id="zeebangla.in" tvg-name="Zee Bangla IN" tvg-logo="" group-title="India",Zee Bangla IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5592
-#EXTINF:-1 tvg-id="zeebusiness.in" tvg-name="Zee Business IN" tvg-logo="" group-title="India",Zee Business IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5570
-#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Bollywood IN" tvg-logo="" group-title="India",Zee Bollywood IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5565
-#EXTINF:-1 tvg-id="" tvg-name="Zee ETC Bollywood IN" tvg-logo="" group-title="India",Zee ETC Bollywood IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5539
-#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News IN" tvg-logo="http://pici.life/IN/zee-news.png" group-title="India",Zee News IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672455
-#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi IN" tvg-logo="" group-title="India",Zee Punjabi IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5571
-#EXTINF:-1 tvg-id="" tvg-name="Zee Telugu IN" tvg-logo="" group-title="India",Zee Telugu IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5593
-#EXTINF:-1 tvg-id="" tvg-name="Zee Alwan IN" tvg-logo="" group-title="India",Zee Alwan IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/10630
-#EXTINF:-1 tvg-id="" tvg-name="Zee Living HD IN" tvg-logo="http://pici.life/IN/ZEE_living.png" group-title="India",Zee Living HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672453
-#EXTINF:-1 tvg-id="" tvg-name="ZEE living (USA) IN" tvg-logo="http://pici.life/IN/ZEE_living.png" group-title="India",ZEE living (USA) IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672454
-#EXTINF:-1 tvg-id="" tvg-name="Zee Rajasthan HD IN" tvg-logo="http://pici.life/IN/Zee_Rajasthan.png" group-title="India",Zee Rajasthan HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672456
-#EXTINF:-1 tvg-id="" tvg-name="Zee Theatre HD IN" tvg-logo="http://pici.life/IN/ZeeTV.in.png" group-title="India",Zee Theatre HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672457
-#EXTINF:-1 tvg-id="zing.in" tvg-name="Zing IN" tvg-logo="" group-title="India",Zing IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5596
-#EXTINF:-1 tvg-id="zing.in" tvg-name="Zing UK IN" tvg-logo="" group-title="India",Zing UK IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5595
-#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom IN" tvg-logo="" group-title="India",Zoom IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5538
-#EXTINF:-1 tvg-id="" tvg-name="MTA 3 IN" tvg-logo="" group-title="India",MTA 3 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/624945
-#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&TV IN" tvg-logo="" group-title="India",&TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672296
-#EXTINF:-1 tvg-id="" tvg-name="1st India News HD IN" tvg-logo="" group-title="India",1st India News HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672297
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM Musci IN" tvg-logo="http://pici.life/IN/9xmmusc.png" group-title="India",9XM Musci IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672298
-#EXTINF:-1 tvg-id="" tvg-name="Aastha TV [UK] IN" tvg-logo="" group-title="India",Aastha TV [UK] IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672299
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="Animal Planet IN" tvg-logo="http://pici.life/IN/Animalplanet.png" group-title="India",Animal Planet IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672301
-#EXTINF:-1 tvg-id="cnbc-tv18.in" tvg-name="CNBC TV 18 IN" tvg-logo="http://pici.life/IN/CNBC18.png" group-title="India",CNBC TV 18 IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672306
-#EXTINF:-1 tvg-id="" tvg-name="DD National IN" tvg-logo="" group-title="India",DD National IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672310
-#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic HD IN" tvg-logo="http://pici.life/IN/Epic.png" group-title="India",Epic HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672313
-#EXTINF:-1 tvg-id="foodfood.in" tvg-name="Food Food HD IN" tvg-logo="http://pici.life/IN/Food.png" group-title="India",Food Food HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672314
-#EXTINF:-1 tvg-id="" tvg-name="Nazrana Music HD IN" tvg-logo="" group-title="India",Nazrana Music HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672317
-#EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="NDTV News HD IN" tvg-logo="" group-title="India",NDTV News HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672318
-#EXTINF:-1 tvg-id="ndtv24x7.in" tvg-name="NDTV Profit IN" tvg-logo="" group-title="India",NDTV Profit IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672319
-#EXTINF:-1 tvg-id="" tvg-name="POP Music HD IN" tvg-logo="" group-title="India",POP Music HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672320
-#EXTINF:-1 tvg-id="tlc.in" tvg-name="TLC IN" tvg-logo="http://pici.life/IN/tlc.png" group-title="India",TLC IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672451
-#EXTINF:-1 tvg-id="" tvg-name="Vision Punjab TV FHD IN" tvg-logo="" group-title="India",Vision Punjab TV FHD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/676906
-#EXTINF:-1 tvg-id="" tvg-name="Sahara Filmy IN" tvg-logo="" group-title="India",Sahara Filmy IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/676909
-#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="Sanskar TV IN" tvg-logo="" group-title="India",Sanskar TV IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690413
-#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Kalak IN" tvg-logo="" group-title="India",Zee 24 Kalak IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690415
-#EXTINF:-1 tvg-id="" tvg-name="Colors Gujarati SD IN" tvg-logo="" group-title="India",Colors Gujarati SD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690416
-#EXTINF:-1 tvg-id="" tvg-name="DD Girnar IN" tvg-logo="" group-title="India",DD Girnar IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690417
-#EXTINF:-1 tvg-id="" tvg-name="Sandesh News FHD IN" tvg-logo="" group-title="India",Sandesh News FHD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690418
-#EXTINF:-1 tvg-id="" tvg-name="ABP Asmita FHD IN" tvg-logo="" group-title="India",ABP Asmita FHD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690419
-#EXTINF:-1 tvg-id="" tvg-name="Kalupur Mandir HD IN" tvg-logo="" group-title="India",Kalupur Mandir HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690420
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Bajar IN" tvg-logo="" group-title="India",CNBC Bajar IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690421
-#EXTINF:-1 tvg-id="" tvg-name="GS TV HD IN" tvg-logo="" group-title="India",GS TV HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/690422
-#EXTINF:-1 tvg-id="" tvg-name="Prime Asia HD IN" tvg-logo="" group-title="India",Prime Asia HD IN
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/693004
 
 
 
