@@ -453,6 +453,8 @@ http://208.86.19.13:81/624.stream/index.m3u8
 http://208.86.19.13:81/626.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",BTV World
 http://208.86.19.13:81/627.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Old BDIX",Sudi Qran
+http://208.86.19.13:81/694.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",Desh tv
 http://208.86.19.13:81/629.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",Channel-9
@@ -461,12 +463,24 @@ http://208.86.19.13:81/608.stream/index.m3u8
 http://208.86.19.13:81/609.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",Gaan Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Old BDIX",Sangeet Bangla
+http://208.86.19.13:81/907.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Old BDIX",Jalsha HD
+http://208.86.19.13:81/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",Jalsha Movies HD
 http://208.86.19.13:81/716.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Old BDIX",Zee Bangla 
+http://208.86.19.13:81/906.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",Zee Bangla Cinama 
 http://208.86.19.13:81/708.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Old BDIX",Sudi Qran
-http://208.86.19.13:81/694.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Old BDIX",Colors Bangla HD
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Old BDIX",SUN Bangla
+http://208.86.19.13:81/903.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Old BDIX",Akash Aath
+http://208.86.19.13:81/902.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Old BDIX",T-Sports
+http://208.86.19.13:81/905.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",Star Sports-1
 http://208.86.19.13:81/710.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",Star Sports Hindi
