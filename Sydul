@@ -555,6 +555,7 @@ http://208.86.19.13:81/732.stream/index.m3u8
 http://103.132.16.98:8080/starsportsselect1hd/mpegts
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 SD
+#http://94.103.92.143:8081/live/english/chunks.m3u8
 http://103.124.110.34:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD
