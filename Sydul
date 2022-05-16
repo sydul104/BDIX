@@ -766,165 +766,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",1
-http://30.30.30.30:8081/tschannel/channel1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",2
-http://30.30.30.30:8081/tschannel/channel2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",3
-http://30.30.30.30:8081/tschannel/channel3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",4
-http://30.30.30.30:8081/tschannel/channel4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",5 
-http://30.30.30.30:8081/tschannel/channel5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",6 
-http://30.30.30.30:8081/tschannel/channel6/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",7 
-http://30.30.30.30:8081/tschannel/channel7/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",8
-http://30.30.30.30:8081/tschannel/channel8/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",9
-http://30.30.30.30:8081/tschannel/channel9/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",10
-http://30.30.30.30:8081/tschannel/channel10/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",11 
-http://30.30.30.30:8081/tschannel/channel11playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",12 
-http://30.30.30.30:8081/tschannel/channel12/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",13
-http://30.30.30.30:8081/tschannel/channel13/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",14 
-http://30.30.30.30:8081/tschannel/channel14/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",15 
-http://30.30.30.30:8081/tschannel/channel15/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",16 
-http://30.30.30.30:8081/tschannel/channel16/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",17
-http://30.30.30.30:8081/tschannel/channel17/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",18 
-http://30.30.30.30:8081/tschannel/channel18/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",19 
-http://30.30.30.30:8081/tschannel/channel19/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",20 
-http://30.30.30.30:8081/tschannel/channel20/laylist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",21
-http://30.30.30.30:8081/tschannel/channel21/paylist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",22 
-http://30.30.30.30:8081/tschannel/channel22/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",23 
-http://30.30.30.30:8081/tschannel/channel23/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",24 
-http://30.30.30.30:8081/tschannel/channel24/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",25 
-http://30.30.30.30:8081/tschannel/channel25/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",26 
-http://30.30.30.30:8081/tschannel/channel26/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",27 
-http://30.30.30.30:8081/tschannel/channel27/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",28
-http://30.30.30.30:8081/tschannel/channel28/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",29
-http://30.30.30.30:8081/tschannel/channel29/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",30
-http://30.30.30.30:8081/tschannel/channel30/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",31
-http://30.30.30.30:8081/tschannel/channel31/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",32
-http://30.30.30.30:8081/tschannel/channel32/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",33
-http://30.30.30.30:8081/tschannel/channel33/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",34
-http://30.30.30.30:8081/tschannel/channel34/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",35
-http://30.30.30.30:8081/tschannel/channel35/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",36
-http://30.30.30.30:8081/tschannel/channel36/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",37
-http://30.30.30.30:8081/tschannel/channel37/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",38
-http://30.30.30.30:8081/tschannel/channel38/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",39
-http://30.30.30.30:8081/tschannel/channel39/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",40
-http://30.30.30.30:8081/tschannel/channel40/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",41
-http://30.30.30.30:8081/tschannel/channel41/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",42
-http://30.30.30.30:8081/tschannel/channel42/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",43
-http://30.30.30.30:8081/tschannel/channel43/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",44
-http://30.30.30.30:8081/tschannel/channel44/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",45
-http://30.30.30.30:8081/tschannel/channel45/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",46
-http://30.30.30.30:8081/tschannel/channel46/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",47
-http://30.30.30.30:8081/tschannel/channel47/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",48 
-http://30.30.30.30:8081/tschannel/channel48/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",49
-http://30.30.30.30:8081/tschannel/channel49/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",50
-http://30.30.30.30:8081/tschannel/channel50/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",51
-http://30.30.30.30:8081/tschannel/channel51/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",52
-http://30.30.30.30:8081/tschannel/channel52/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",53
-http://30.30.30.30:8081/tschannel/channel53/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",54
-http://30.30.30.30:8081/tschannel/channel54/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",55
-http://30.30.30.30:8081/tschannel/channel55/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",56
-http://30.30.30.30:8081/tschannel/channel56/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",57
-http://30.30.30.30:8081/tschannel/channel57/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",58
-http://30.30.30.30:8081/tschannel/channel58/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",59
-http://30.30.30.30:8081/tschannel/channel59/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",60
-http://30.30.30.30:8081/tschannel/channel60/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",61
-http://30.30.30.30:8081/tschannel/channel61/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",62
-http://30.30.30.30:8081/tschannel/channel62/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",63
-http://30.30.30.30:8081/tschannel/channel63/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",64
-http://30.30.30.30:8081/tschannel/channel64/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",65
-http://30.30.30.30:8081/tschannel/channel65/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",66
-http://30.30.30.30:8081/tschannel/channel66/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MY Server New",67
-http://30.30.30.30:8081/tschannel/channel67/playlist.m3u8
-
-
-
-
-
-#EXTINF:-202 group-title="Hindi Movies",BD-Dour
-https://assets-1.mypowerdisk.com/disk/upload/prod/11048409014/8786c5909fa44e21a9ffbcde9d8c21a8.mp4
-#EXTINF:-202 group-title="Hindi Movies",IN-Ban:BAAZI
-https://assets-1.entertainvideo.com/assets/media/941cb3c1b88a354bbe66c3e01f83a3ee/dash/941cb3c1b88a354bbe66c3e01f83a3ee.mpd
-#EXTINF:-202 group-title="Hindi Movies",IN: Pushpa
-http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Pushpa%20The%20Rise%20(2021)%201080p%20WEBDL.mp4
-#EXTINF:-202 group-title="Hindi Movies",IN:KGF
-https://assets-1.mypowerdisk.com/transcode_video/a5baec1e9907b707221ac1c8b4209766/dash/a5baec1e9907b707221ac1c8b4209766.mpd
-#EXTINF:-202 group-title="Hindi Movies",IN:RRR
-https://assets-1.mypowerdisk.com/transcode_video/7adcca8586e774b786c027e892103ded/dash/7adcca8586e774b786c027e892103ded.mpd
-#EXTINF:-202 group-title="Hindi Movies",IN:Rudra
-https://assets-1.mypowerdisk.com/transcode_video/36b751d2fab813ebf2d1a435d6e8077e/dash/36b751d2fab813ebf2d1a435d6e8077e.mpd
-#EXTINF:-202 group-title="Hindi Movies",IN:Moonfall (2022)
-https://assets-1.entertainvideo.com/assets/media/56d32eccaeee0111ad5d9183d0292cc4/dash/56d32eccaeee0111ad5d9183d0292cc4.mpd
-
-
-
-
-
-
 
 
 
@@ -1461,45 +1302,503 @@ http://stream.accessnetbd.com/hls/sky16.m3u8
 
 
 
-*******okbd******
+*******ookbd******
+
 #EXTINF:-1 tvg-logo="" group-title="okbd",T-Sports
-http://td.chowdhury-shaheb.com/live/tsports/chunks.m3u8
+https://td.chowdhury-shaheb.com/live/tsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Gazi tv
-http://td.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
+https://td.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Star Sports-1
-http://nbn.chowdhury-shaheb.com/live/starsporthd/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Star Sports-2
+https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Star Sports-3
+https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Star Sports Select-1
-http://nbn.chowdhury-shaheb.com/live/starsportselect/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-starsports-select1_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Star Sports Select-2
+https://nbn.chowdhury-shaheb.com/live/nb-starsports-select2_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Sony Six
-http://nbn.chowdhury-shaheb.com/live/discoverykids/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-sonysix_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Sony ten-1
+https://nbn.chowdhury-shaheb.com/live/nb-sonyten1_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Sony ten-2
+https://nbn.chowdhury-shaheb.com/live/nb-sonyten2_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Sony ten-3
+https://nbn.chowdhury-shaheb.com/live/nb-sonyten3_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Sony ten-4
+https://nbn.chowdhury-shaheb.com/live/nb-sonyten4_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",PTV Sports
-http://nbn.chowdhury-shaheb.com/live/nb-ptvsports/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/ptvsports_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Colors Bangla
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Dicovery
-http://nbn.chowdhury-shaheb.com/live/nb-discovery/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-discovery_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Net Geo
-http://nbn.chowdhury-shaheb.com/live/natgeohd/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-natgwild_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Animal Plannet
-http://nbn.chowdhury-shaheb.com/live/animelplanet/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-animale_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",BBC Earth
-http://nbn.chowdhury-shaheb.com/live/bbcearth/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-bbcearth_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Duranto tv
-http://nbn.chowdhury-shaheb.com/live/duranta/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-duronto_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Masranga tv
+https://nbn.chowdhury-shaheb.com/live/nb-massranga_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd", Sony Aath
-http://nbn.chowdhury-shaheb.com/live/nb-sonyaath/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/sonyaath_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Jalsha Movies
+https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Zee Bangla Cinema
+https://nbn.chowdhury-shaheb.com/live/nb-zbanglacine_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Zee Cinema
-http://nbn.chowdhury-shaheb.com/live/zeebanglacinema/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-zeebanglacinema_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Zee tv
-http://nbn.chowdhury-shaheb.com/live/zeetv/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-zetv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Star Gold
-http://nbn.chowdhury-shaheb.com/live/stargold/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="okbd",Star Gold Select
+https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",And Pictures
-http://nbn.chowdhury-shaheb.com/live/andpicture/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",AXN
-http://nbn.chowdhury-shaheb.com/live/axn/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-axn_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="okbd",Star Movie Select
-http://nbn.chowdhury-shaheb.com/live/starmovie/chunks.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-starmovie_720p/chunks.m3u8
+
+
+
+
+******AmrBD*****
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor-tv" tvg-logo="" group-title="AmrBD Server",Ekattor-tv
+http://103.136.200.246:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC-NEWS" tvg-logo="" group-title="AmrBD Server",DBC-NEWS
+http://103.136.200.246:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="" group-title="AmrBD Server",MyTV
+http://103.136.200.246:8082/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24bd" tvg-logo="" group-title="AmrBD Server",News24bd
+http://103.136.200.246:8082/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik-TV" tvg-logo="" group-title="AmrBD Server",Nagorik-TV
+http://103.136.200.246:8082/Nagorik-TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="AmrBD Server",Somoy TV
+http://103.136.200.246:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="AmrBD Server",NTV
+http://103.136.200.246:8082/Ntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="AmrBD Server",RTV
+http://103.136.200.246:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atn-News" tvg-logo="" group-title="AmrBD Server",Atn-News
+http://103.136.200.246:8082/Atn-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN-Bangla" tvg-logo="" group-title="AmrBD Server",ATN-Bangla
+http://103.136.200.246:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BanglaVision" tvg-logo="" group-title="AmrBD Server",BanglaVision
+http://103.136.200.246:8082/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATV" tvg-logo="" group-title="AmrBD Server",SATV
+http://103.136.200.246:8082/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel24" tvg-logo="" group-title="AmrBD Server",Channel24
+http://103.136.200.246:8082/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey-TV" tvg-logo="" group-title="AmrBD Server",Ekushey-TV
+http://103.136.200.246:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="" group-title="AmrBD Server",Gazi TV
+http://103.136.200.246:8082/GAZI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto-TV" tvg-logo="" group-title="AmrBD Server",Deepto-TV
+http://103.136.200.246:8082/Deepto-TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi" tvg-logo="" group-title="AmrBD Server",Boishakhi
+http://103.136.200.246:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MohonaTV" tvg-logo="" group-title="AmrBD Server",MohonaTV
+http://103.136.200.246:8082/MohonaTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anandotv" tvg-logo="" group-title="AmrBD Server",Anandotv
+http://103.136.200.246:8082/anandotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel-i" tvg-logo="" group-title="AmrBD Server",Channel-i
+http://103.136.200.246:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GaanBangla" tvg-logo="" group-title="AmrBD Server",GaanBangla
+http://103.136.200.246:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BijoyTv" tvg-logo="" group-title="AmrBD Server",BijoyTv
+http://103.136.200.246:8082/BijoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal_Planet HD" tvg-logo="" group-title="AmrBD Server",Animal_Planet HD
+http://103.136.200.246:8082/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="AmrBD Server",Discovery HD
+http://103.136.200.246:8082/Discovery-Tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat-Geo Bangla HD" tvg-logo="" group-title="AmrBD Server",Nat-Geo Bangla HD
+http://103.136.200.246:8082/Nat-Geo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bbc-Earth HD" tvg-logo="" group-title="AmrBD Server",Bbc-Earth HD
+http://103.136.200.246:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC_World HD" tvg-logo="" group-title="AmrBD Server",TLC_World HD
+http://103.136.200.246:8082/TLC_World/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalshamovies HD" tvg-logo="" group-title="AmrBD Server",Jalshamovies HD
+http://103.136.200.246:8082/Jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="colorsbangla HD" tvg-logo="" group-title="AmrBD Server",colorsbangla HD
+http://103.136.200.246:8082/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZeeBanglaHD" tvg-logo="" group-title="AmrBD Server",ZeeBanglaHD
+http://103.136.200.246:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Star-Jalsha HD" tvg-logo="" group-title="AmrBD Server",Star-Jalsha HD
+http://103.136.200.246:8082/Star-Jalsha/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZeeBanglacinema" tvg-logo="" group-title="AmrBD Server",ZeeBanglacinema
+http://103.136.200.246:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonyaath" tvg-logo="" group-title="AmrBD Server",Sonyaath
+http://103.136.200.246:8082/Sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AND PriveHD" tvg-logo="" group-title="AmrBD Server",AND PriveHD
+http://103.136.200.246:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZeeStudiohd" tvg-logo="" group-title="AmrBD Server",ZeeStudiohd
+http://103.136.200.246:8082/ZeeStudiohd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="AmrBD Server",Nick Jr.
+http://103.136.200.246:8082/nike/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cgtn-News" tvg-logo="" group-title="AmrBD Server",Cgtn-News
+http://103.136.200.246:8082/Cgtn-News/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC_World" tvg-logo="" group-title="AmrBD Server",BBC_World
+http://103.136.200.246:8082/BBC_World/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="AmrBD Server",DW
+http://103.136.200.246:8082/Dw/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="" group-title="AmrBD Server",Aljazeera
+http://103.136.200.246:8082/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD" tvg-logo="" group-title="AmrBD Server",MTV Beats HD
+http://103.136.200.246:8082/Mtv-Beats/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="" group-title="AmrBD Server",9XM
+http://103.136.200.246:8082/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Masti-Music" tvg-logo="" group-title="AmrBD Server",Masti-Music
+http://103.136.200.246:8082/Masti-Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="AmrBD Server",Sangeet Bangla
+http://103.136.200.246:8082/SangeetBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X-Jalwa" tvg-logo="" group-title="AmrBD Server",9X-Jalwa
+http://103.136.200.246:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="AmrBD Server",MTV
+http://103.136.200.246:8082/MTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="" group-title="AmrBD Server",Music India
+http://103.136.200.246:8082/Zoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SonyPix HD" tvg-logo="" group-title="AmrBD Server",SonyPix HD
+http://103.136.200.246:8082/SonyPix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies_Now_2" tvg-logo="" group-title="AmrBD Server",Movies_Now_2
+http://103.136.200.246:8082/Movies_Now_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="And-Flix HD" tvg-logo="" group-title="AmrBD Server",And-Flix HD
+http://103.136.200.246:8082/And-Flix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="" group-title="AmrBD Server",T Sports HD
+http://103.136.200.246:8082/kn10a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten1HD" tvg-logo="" group-title="AmrBD Server",Ten1HD
+http://103.136.200.246:8082/Ten1HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten2HD" tvg-logo="" group-title="AmrBD Server",Ten2HD
+http://103.136.200.246:8082/Ten2HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten3HD" tvg-logo="" group-title="AmrBD Server",Ten3HD
+http://103.136.200.246:8082/Ten3HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SonySix HD" tvg-logo="" group-title="AmrBD Server",SonySix HD
+http://103.136.200.246:8082/SonySix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="AmrBD Server",Star Sports 1 HD
+http://103.136.200.246:8082/kn1a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="AmrBD Server",Star Sports 2 HD
+http://103.136.200.246:8082/kn2a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 1" tvg-logo="" group-title="AmrBD Server",Star Sports Select HD 1
+http://103.136.200.246:8082/kn3a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 2" tvg-logo="" group-title="AmrBD Server",Star Sports Select HD 2
+http://103.136.200.246:8082/kn5a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adsports1" tvg-logo="" group-title="AmrBD Server",Adsports1
+http://103.136.200.246:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adsports2" tvg-logo="" group-title="AmrBD Server",Adsports2
+http://103.136.200.246:8082/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adsports3" tvg-logo="" group-title="AmrBD Server",Adsports3
+http://103.136.200.246:8082/Adsports3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AndPicturesHD" tvg-logo="" group-title="AmrBD Server",AndPicturesHD
+http://103.136.200.246:8082/AndPicturesHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SonyTVHD" tvg-logo="" group-title="AmrBD Server",SonyTVHD
+http://103.136.200.246:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony-Max HD" tvg-logo="" group-title="AmrBD Server",Sony-Max HD
+http://103.136.200.246:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AndTVHD" tvg-logo="" group-title="AmrBD Server",AndTVHD
+http://103.136.200.246:8082/AndTVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="" group-title="AmrBD Server",COLORS HD
+http://103.136.200.246:8082/colorsindia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star_Plus HD" tvg-logo="" group-title="AmrBD Server",Star_Plus HD
+http://103.136.200.246:8082/Star_Plus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="StarGold HD" tvg-logo="" group-title="AmrBD Server",StarGold HD
+http://103.136.200.246:8082/StarGold/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="AmrBD Server",Zee Action
+http://103.136.200.246:8082/ZeeAction/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZeeCinemaHD" tvg-logo="" group-title="AmrBD Server",ZeeCinemaHD
+http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZeeTV" tvg-logo="" group-title="AmrBD Server",ZeeTV
+http://103.136.200.246:8082/ZeeTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wow-Cinema" tvg-logo="" group-title="AmrBD Server",Wow-Cinema
+http://103.136.200.246:8082/Wow-Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee_Classic" tvg-logo="" group-title="AmrBD Server",Zee_Classic
+http://103.136.200.246:8082/Zee_Classic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bflix Movies" tvg-logo="" group-title="AmrBD Server",Bflix Movies
+http://103.136.200.246:8082/bflix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony_Sab" tvg-logo="" group-title="AmrBD Server",Sony_Sab
+http://103.136.200.246:8082/Sony_Sab/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xplore HD" tvg-logo="" group-title="AmrBD Server",Xplore HD
+http://103.136.200.246:8082/Xplore/tracks-v1a1/mono.m3u8
+
+
+
+
+
+******Internet_TV*****Server-1*******
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",T-Sports
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Gtv
+http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Somoy tv
+http://103.55.144.46/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Independent tv
+http://103.55.144.46/hls/indepen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Cannel I
+http://103.55.144.46/hls/channeli.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Masranga tv
+http://103.55.144.46/hls/masranga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nexus
+http://103.55.144.46/hls/nexus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Jalsha HD
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Bangla HD
+http://103.55.144.46/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Bangla
+http://103.55.144.46/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sun Bangla
+http://103.55.144.46/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Colors Bangla Cinema
+http://103.55.144.46/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Jalsha Movies HD
+http://103.55.144.46/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-1
+http://103.55.144.46/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-2
+http://103.55.144.46/hls/starsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-1
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-2
+http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sony Six
+http://103.55.144.46/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-1
+http://103.55.144.46/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-2
+http://103.55.144.46/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-3
+http://103.55.144.46/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery HD
+http://103.55.144.46/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
+http://103.55.144.46/hls/ngohd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Travel Xp
+http://103.55.144.46/hls/travelxp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",BBC Earth
+http://103.55.144.46/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Animal Planet
+http://103.55.144.46/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nick
+http://103.55.144.46/hls/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",CN
+http://103.55.144.46/hls/cn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Pogo
+http://103.55.144.46/hls/pogo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Movies
+http://103.55.144.46/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony Pix
+http://103.55.144.46/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Movies Now
+http://103.55.144.46/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",MN+
+http://103.55.144.46/hls/mn+.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",UTV Action
+http://103.55.144.46/hls/utvaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Cinema HD
+http://103.55.144.46/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Gold HD
+http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Max HD
+http://103.55.144.46/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Cineplex
+http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony tv
+http://103.55.144.46/hls/sonyen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",&Pictures
+http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zoom
+http://103.55.144.46/hls/zoom.m3u8
+
+
+
+
+
+
+
+******Internet_TV*****Server-2*******
+
+#EXTINF:-1 tvg-id="" tvg-name="Massranga HD" tvg-logo="" group-title="Internet_TV*Server-2",Massranga HD
+http://103.55.144.46:80/hls/masranga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="Internet_TV*Server-2",Channel i HD
+http://103.55.144.46:80/hls/channeli.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="" group-title="Internet_TV*Server-2",T Sports HD
+http://103.55.144.46:80/hls/t-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV HD" tvg-logo="" group-title="Internet_TV*Server-2",Gazi TV HD
+http://103.55.144.46:80/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="Internet_TV*Server-2",Somoy TV
+http://103.55.144.46:80/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent HD" tvg-logo="" group-title="Internet_TV*Server-2",Independent HD
+http://103.55.144.46:80/hls/indepen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="" group-title="Internet_TV*Server-2",Star Jalsha HD
+http://103.55.144.46:80/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies HD" tvg-logo="" group-title="Internet_TV*Server-2",Star Jalsha Movies HD
+http://103.55.144.46:80/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Internet_TV*Server-2",Zee Bangla HD
+http://103.55.144.46:80/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Internet_TV*Server-2",Zee Bangla Cinema
+http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="" group-title="Internet_TV*Server-2",Colors Bangla HD
+http://103.55.144.46:80/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="" group-title="Internet_TV*Server-2",Sun Bangla
+http://103.55.144.46:80/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic BanglaHD" tvg-logo="" group-title="Internet_TV*Server-2",National Geographic BanglaHD
+http://103.55.144.46:80/hls/ngohd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD" tvg-logo="" group-title="Internet_TV*Server-2",Discovery Bangla HD
+http://103.55.144.46:80/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP Bangla HD" tvg-logo="" group-title="Internet_TV*Server-2",Travel XP Bangla HD
+http://103.55.144.46:80/hls/travelxp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="" group-title="Internet_TV*Server-2",Sony BBC Earth HD
+http://103.55.144.46:80/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Internet_TV*Server-2",Animal Planet HD
+http://103.55.144.46:80/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wild" tvg-logo="" group-title="Internet_TV*Server-2",Wild
+http://103.55.144.46:80/hls/wild.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD" tvg-logo="" group-title="Internet_TV*Server-2",Sony Pix HD
+http://103.55.144.46:80/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Internet_TV*Server-2",AXN HD
+http://103.55.144.46:80/hls/mnx-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="" group-title="Internet_TV*Server-2",Star Movies
+http://103.55.144.46:80/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 1" tvg-logo="" group-title="Internet_TV*Server-2",Star Sports HD 1
+http://103.55.144.46:80/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 2" tvg-logo="" group-title="Internet_TV*Server-2",Star Sports HD 2
+http://103.55.144.46:80/hls/starsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 1" tvg-logo="" group-title="Internet_TV*Server-2",Star Sports Select HD 1
+http://103.55.144.46:80/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 2" tvg-logo="" group-title="Internet_TV*Server-2",Star Sports Select HD 2
+http://103.55.144.46:80/hls/select2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="Internet_TV*Server-2",Sony Ten 1 HD
+http://103.55.144.46:80/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="Internet_TV*Server-2",Sony Ten 2 HD
+http://103.55.144.46:80/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="Internet_TV*Server-2",Sony Ten 3 HD
+http://103.55.144.46:80/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="" group-title="Internet_TV*Server-2",Sony Six HD
+http://103.55.144.46:80/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex HD" tvg-logo="" group-title="Internet_TV*Server-2",Colors Cineplex HD
+http://103.55.144.46:80/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Pictures HD" tvg-logo="" group-title="Internet_TV*Server-2",&Pictures HD
+http://103.55.144.46:80/hls/andpictures.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="" group-title="Internet_TV*Server-2",Zee Cinema HD
+http://103.55.144.46:80/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="" group-title="Internet_TV*Server-2",Star Gold HD
+http://103.55.144.46:80/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="" group-title="Internet_TV*Server-2",Star Plus HD
+http://103.55.144.46:80/hls/starplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV Action" tvg-logo="" group-title="Internet_TV*Server-2",UTV Action
+http://103.55.144.46:80/hls/utvaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="" group-title="Internet_TV*Server-2",Sony Max
+http://103.55.144.46:80/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="" group-title="Internet_TV*Server-2",Zee TV
+http://103.55.144.46:80/hls/zeetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2 HD" tvg-logo="" group-title="Internet_TV*Server-2",Star Gold 2 HD
+http://103.55.144.46:80/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="" group-title="Internet_TV*Server-2",Sony TV
+http://103.55.144.46:80/hls/sonyen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="" group-title="Internet_TV*Server-2",NICK
+http://103.55.144.46:80/hls/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CN HD+" tvg-logo="" group-title="Internet_TV*Server-2",CN HD+
+http://103.55.144.46:80/hls/cn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="" group-title="Internet_TV*Server-2",Pogo
+http://103.55.144.46:80/hls/pogo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="Internet_TV*Server-2",Zoom
+http://103.55.144.46:80/hls/zoom.m3u8
+
+
+
+
+
+
+******Internet_TV*****Server-3*******
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",T-Sports
+http://103.167.190.250/hls/t-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Gtv
+http://103.167.190.250/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Somoy tv
+http://103.167.190.250/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Independent tv
+http://103.167.190.250/hls/indepen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Cannel I
+http://103.167.190.250/hls/channeli.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Masranga tv
+http://103.167.190.250/hls/masranga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Nexus
+http://103.167.190.250/hls/nexus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Star Jalsha HD
+http://103.167.190.250/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Zee Bangla HD
+http://103.167.190.250/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Colors Bangla
+http://103.167.190.250/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Sun Bangla
+http://103.167.190.250/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Colors Bangla Cinema
+http://103.167.190.250/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Jalsha Movies HD
+http://103.167.190.250/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Star Sports-1
+http://103.167.190.250/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Star Sports-2
+http://103.167.190.250/hls/starsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Star Sports Select-1
+http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Star Sports Select-2
+http://103.167.190.250/hls/select2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Sony Six
+http://103.167.190.250/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Ten-1
+http://103.167.190.250/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Ten-2
+http://103.167.190.250/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Ten-3
+http://103.167.190.250/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Discovery HD
+http://103.167.190.250/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3", Net Geo HD
+http://103.167.190.250/hls/ngohd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Travel Xp
+http://103.167.190.250/hls/travelxp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",BBC Earth
+http://103.167.190.250/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Animal Planet
+http://103.167.190.250/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Nick
+http://103.167.190.250/hls/nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",CN
+http://103.167.190.250/hls/cn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Pogo
+http://103.167.190.250/hls/pogo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Star Movies
+http://103.167.190.250/hls/starmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Sony Pix
+http://103.167.190.250/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Movies Now
+http://103.167.190.250/hls/movies-now.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",MN+
+http://103.167.190.250/hls/mn+.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",UTV Action
+http://103.167.190.250/hls/utvaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Zee Cinema HD
+http://103.167.190.250/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Star Gold HD
+http://103.167.190.250/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Max HD
+http://103.167.190.250/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Colors Cineplex
+http://103.167.190.250/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Sony tv
+http://103.167.190.250/hls/sonyen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",&Pictures
+http://103.167.190.250/hls/andpictures.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**Server-3",Zoom
+http://103.167.190.250/hls/zoom.m3u8
+
+
 
 
 
@@ -1632,6 +1931,8 @@ http://208.86.19.13:81/728.stream/index.m3u8
 http://208.86.19.13:81/733.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Old BDIX",Color cineplex HD
 http://208.86.19.13:81/735.stream/index.m3u8
+
+
 
 
 
@@ -1878,7 +2179,6 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=TV_5_Monde&q=800&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Manjari_TV&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CN_HD_Tamil" tvg-logo="" group-title="Jio Server LIVE",CN_HD_Tamil
 http://103.139.171.5:5001/jiotvplus/live.php?c=CN_HD_Tamil&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Hi_Dost" tvg-logo="" group-title="Jio Server LIVE",Hi_Dost
 http://103.139.171.5:5001/jiotvplus/live.php?c=Hi_Dost&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maha_Movies" tvg-logo="" group-title="Jio Server LIVE",Maha_Movies
@@ -1925,6 +2225,7 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Care_World&q=800&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Science&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery_Turbo" tvg-logo="" group-title="Jio Server LIVE",Discovery_Turbo
 http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Turbo&q=800&e=.m3u8
+
 
 
 
@@ -2159,92 +2460,6 @@ https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 #EXTINF:-1 ch-id="SHEMAROO TV (IN)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiAeNnLczA1oLBfDLfdTSWreu-WeFuD2BdbbiiYPyyI_BzBpWbI2fKy0b3ZMgZeG4tNzMiDgDoXL3w3dGbRa0CqytcD17DtVXiR5KCo3pDjnb_FLEGpZVcQ80A7zZ2JiTrA7BkeOfn3lPogvPmWJ5wI6jRAE3ZTGkmLEV2WA-r_-BqrTE9rY1gLJ34E=s200"  group-title="MX-TV",SHEMAROO TV (IN)
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
-
-
-
-****Internet tv*****
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",T-Sports
-http://103.55.144.46/hls/t-sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Gtv
-http://103.55.144.46/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Somoy tv
-http://103.55.144.46/hls/somoy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Independent tv
-http://103.55.144.46/hls/indepen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Cannel I
-http://103.55.144.46/hls/channeli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Masranga tv
-http://103.55.144.46/hls/masranga.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nexus
-http://103.55.144.46/hls/nexus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Jalsha HD
-http://103.55.144.46/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Bangla HD
-http://103.55.144.46/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Bangla
-http://103.55.144.46/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sun Bangla
-http://103.55.144.46/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Colors Bangla Cinema
-http://103.55.144.46/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Jalsha Movies HD
-http://103.55.144.46/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-1
-http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-2
-http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-1
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-2
-http://103.55.144.46/hls/select2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sony Six
-http://103.55.144.46/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-1
-http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-2
-http://103.55.144.46/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-3
-http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery HD
-http://103.55.144.46/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
-http://103.55.144.46/hls/ngohd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Travel Xp
-http://103.55.144.46/hls/travelxp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",BBC Earth
-http://103.55.144.46/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Animal Planet
-http://103.55.144.46/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nick
-http://103.55.144.46/hls/nick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",CN
-http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Pogo
-http://103.55.144.46/hls/pogo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Movies
-http://103.55.144.46/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony Pix
-http://103.55.144.46/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Movies Now
-http://103.55.144.46/hls/movies-now.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",MN+
-http://103.55.144.46/hls/mn+.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",UTV Action
-http://103.55.144.46/hls/utvaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Cinema HD
-http://103.55.144.46/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Gold HD
-http://103.55.144.46/hls/stargold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Max HD
-http://103.55.144.46/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Cineplex
-http://103.55.144.46/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony tv
-http://103.55.144.46/hls/sonyen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",&Pictures
-http://103.55.144.46/hls/andpictures.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zoom
-http://103.55.144.46/hls/zoom.m3u8
 
 
 
@@ -2692,161 +2907,7 @@ http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
 
 
 
-******AmrBD*****
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor-tv" tvg-logo="" group-title="AmrBD Server",Ekattor-tv
-http://103.136.200.246:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBC-NEWS" tvg-logo="" group-title="AmrBD Server",DBC-NEWS
-http://103.136.200.246:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="" group-title="AmrBD Server",MyTV
-http://103.136.200.246:8082/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News24bd" tvg-logo="" group-title="AmrBD Server",News24bd
-http://103.136.200.246:8082/News24bd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik-TV" tvg-logo="" group-title="AmrBD Server",Nagorik-TV
-http://103.136.200.246:8082/Nagorik-TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="AmrBD Server",Somoy TV
-http://103.136.200.246:8082/Somoy-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="AmrBD Server",NTV
-http://103.136.200.246:8082/Ntv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="AmrBD Server",RTV
-http://103.136.200.246:8082/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atn-News" tvg-logo="" group-title="AmrBD Server",Atn-News
-http://103.136.200.246:8082/Atn-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN-Bangla" tvg-logo="" group-title="AmrBD Server",ATN-Bangla
-http://103.136.200.246:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BanglaVision" tvg-logo="" group-title="AmrBD Server",BanglaVision
-http://103.136.200.246:8082/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SATV" tvg-logo="" group-title="AmrBD Server",SATV
-http://103.136.200.246:8082/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel24" tvg-logo="" group-title="AmrBD Server",Channel24
-http://103.136.200.246:8082/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey-TV" tvg-logo="" group-title="AmrBD Server",Ekushey-TV
-http://103.136.200.246:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="" group-title="AmrBD Server",Gazi TV
-http://103.136.200.246:8082/GAZI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto-TV" tvg-logo="" group-title="AmrBD Server",Deepto-TV
-http://103.136.200.246:8082/Deepto-TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi" tvg-logo="" group-title="AmrBD Server",Boishakhi
-http://103.136.200.246:8082/Boishakhi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MohonaTV" tvg-logo="" group-title="AmrBD Server",MohonaTV
-http://103.136.200.246:8082/MohonaTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anandotv" tvg-logo="" group-title="AmrBD Server",Anandotv
-http://103.136.200.246:8082/anandotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel-i" tvg-logo="" group-title="AmrBD Server",Channel-i
-http://103.136.200.246:8082/Channel-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GaanBangla" tvg-logo="" group-title="AmrBD Server",GaanBangla
-http://103.136.200.246:8082/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BijoyTv" tvg-logo="" group-title="AmrBD Server",BijoyTv
-http://103.136.200.246:8082/BijoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal_Planet HD" tvg-logo="" group-title="AmrBD Server",Animal_Planet HD
-http://103.136.200.246:8082/Animal_Planet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="AmrBD Server",Discovery HD
-http://103.136.200.246:8082/Discovery-Tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat-Geo Bangla HD" tvg-logo="" group-title="AmrBD Server",Nat-Geo Bangla HD
-http://103.136.200.246:8082/Nat-Geo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbc-Earth HD" tvg-logo="" group-title="AmrBD Server",Bbc-Earth HD
-http://103.136.200.246:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC_World HD" tvg-logo="" group-title="AmrBD Server",TLC_World HD
-http://103.136.200.246:8082/TLC_World/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jalshamovies HD" tvg-logo="" group-title="AmrBD Server",Jalshamovies HD
-http://103.136.200.246:8082/Jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="colorsbangla HD" tvg-logo="" group-title="AmrBD Server",colorsbangla HD
-http://103.136.200.246:8082/colorsbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZeeBanglaHD" tvg-logo="" group-title="AmrBD Server",ZeeBanglaHD
-http://103.136.200.246:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Star-Jalsha HD" tvg-logo="" group-title="AmrBD Server",Star-Jalsha HD
-http://103.136.200.246:8082/Star-Jalsha/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZeeBanglacinema" tvg-logo="" group-title="AmrBD Server",ZeeBanglacinema
-http://103.136.200.246:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sonyaath" tvg-logo="" group-title="AmrBD Server",Sonyaath
-http://103.136.200.246:8082/Sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AND PriveHD" tvg-logo="" group-title="AmrBD Server",AND PriveHD
-http://103.136.200.246:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZeeStudiohd" tvg-logo="" group-title="AmrBD Server",ZeeStudiohd
-http://103.136.200.246:8082/ZeeStudiohd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="AmrBD Server",Nick Jr.
-http://103.136.200.246:8082/nike/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cgtn-News" tvg-logo="" group-title="AmrBD Server",Cgtn-News
-http://103.136.200.246:8082/Cgtn-News/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC_World" tvg-logo="" group-title="AmrBD Server",BBC_World
-http://103.136.200.246:8082/BBC_World/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="AmrBD Server",DW
-http://103.136.200.246:8082/Dw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="" group-title="AmrBD Server",Aljazeera
-http://103.136.200.246:8082/Aljazeera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD" tvg-logo="" group-title="AmrBD Server",MTV Beats HD
-http://103.136.200.246:8082/Mtv-Beats/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="" group-title="AmrBD Server",9XM
-http://103.136.200.246:8082/9XM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Masti-Music" tvg-logo="" group-title="AmrBD Server",Masti-Music
-http://103.136.200.246:8082/Masti-Music/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="AmrBD Server",Sangeet Bangla
-http://103.136.200.246:8082/SangeetBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X-Jalwa" tvg-logo="" group-title="AmrBD Server",9X-Jalwa
-http://103.136.200.246:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="AmrBD Server",MTV
-http://103.136.200.246:8082/MTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="" group-title="AmrBD Server",Music India
-http://103.136.200.246:8082/Zoom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SonyPix HD" tvg-logo="" group-title="AmrBD Server",SonyPix HD
-http://103.136.200.246:8082/SonyPix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movies_Now_2" tvg-logo="" group-title="AmrBD Server",Movies_Now_2
-http://103.136.200.246:8082/Movies_Now_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="And-Flix HD" tvg-logo="" group-title="AmrBD Server",And-Flix HD
-http://103.136.200.246:8082/And-Flix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="" group-title="AmrBD Server",T Sports HD
-http://103.136.200.246:8082/kn10a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten1HD" tvg-logo="" group-title="AmrBD Server",Ten1HD
-http://103.136.200.246:8082/Ten1HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten2HD" tvg-logo="" group-title="AmrBD Server",Ten2HD
-http://103.136.200.246:8082/Ten2HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten3HD" tvg-logo="" group-title="AmrBD Server",Ten3HD
-http://103.136.200.246:8082/Ten3HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SonySix HD" tvg-logo="" group-title="AmrBD Server",SonySix HD
-http://103.136.200.246:8082/SonySix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="AmrBD Server",Star Sports 1 HD
-http://103.136.200.246:8082/kn1a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="AmrBD Server",Star Sports 2 HD
-http://103.136.200.246:8082/kn2a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 1" tvg-logo="" group-title="AmrBD Server",Star Sports Select HD 1
-http://103.136.200.246:8082/kn3a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 2" tvg-logo="" group-title="AmrBD Server",Star Sports Select HD 2
-http://103.136.200.246:8082/kn5a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adsports1" tvg-logo="" group-title="AmrBD Server",Adsports1
-http://103.136.200.246:8082/Adsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adsports2" tvg-logo="" group-title="AmrBD Server",Adsports2
-http://103.136.200.246:8082/Adsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adsports3" tvg-logo="" group-title="AmrBD Server",Adsports3
-http://103.136.200.246:8082/Adsports3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AndPicturesHD" tvg-logo="" group-title="AmrBD Server",AndPicturesHD
-http://103.136.200.246:8082/AndPicturesHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SonyTVHD" tvg-logo="" group-title="AmrBD Server",SonyTVHD
-http://103.136.200.246:8082/SonyTVHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony-Max HD" tvg-logo="" group-title="AmrBD Server",Sony-Max HD
-http://103.136.200.246:8082/Sony-Max/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AndTVHD" tvg-logo="" group-title="AmrBD Server",AndTVHD
-http://103.136.200.246:8082/AndTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="" group-title="AmrBD Server",COLORS HD
-http://103.136.200.246:8082/colorsindia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star_Plus HD" tvg-logo="" group-title="AmrBD Server",Star_Plus HD
-http://103.136.200.246:8082/Star_Plus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="StarGold HD" tvg-logo="" group-title="AmrBD Server",StarGold HD
-http://103.136.200.246:8082/StarGold/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="AmrBD Server",Zee Action
-http://103.136.200.246:8082/ZeeAction/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZeeCinemaHD" tvg-logo="" group-title="AmrBD Server",ZeeCinemaHD
-http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZeeTV" tvg-logo="" group-title="AmrBD Server",ZeeTV
-http://103.136.200.246:8082/ZeeTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wow-Cinema" tvg-logo="" group-title="AmrBD Server",Wow-Cinema
-http://103.136.200.246:8082/Wow-Cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee_Classic" tvg-logo="" group-title="AmrBD Server",Zee_Classic
-http://103.136.200.246:8082/Zee_Classic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bflix Movies" tvg-logo="" group-title="AmrBD Server",Bflix Movies
-http://103.136.200.246:8082/bflix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony_Sab" tvg-logo="" group-title="AmrBD Server",Sony_Sab
-http://103.136.200.246:8082/Sony_Sab/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Xplore HD" tvg-logo="" group-title="AmrBD Server",Xplore HD
-http://103.136.200.246:8082/Xplore/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -2950,182 +3011,6 @@ http://cdn.ihub.live:8080/DubaiOne/tracks-v1a1/mono.m3u8
 http://cdn.ihub.live:8080/ADSPORTS3/tracks-v1a1/mono.m3u8
 
 
-
-******Internet_TV*****
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Massranga HD" tvg-logo="" group-title="Internet_TV*",Massranga HD
-http://103.55.144.46:80/hls/masranga.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="Internet_TV*",Channel i HD
-http://103.55.144.46:80/hls/channeli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="" group-title="Internet_TV*",T Sports HD
-http://103.55.144.46:80/hls/t-sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV HD" tvg-logo="" group-title="Internet_TV*",Gazi TV HD
-http://103.55.144.46:80/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="Internet_TV*",Somoy TV
-http://103.55.144.46:80/hls/somoy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent HD" tvg-logo="" group-title="Internet_TV*",Independent HD
-http://103.55.144.46:80/hls/indepen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="" group-title="Internet_TV*",Star Jalsha HD
-http://103.55.144.46:80/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies HD" tvg-logo="" group-title="Internet_TV*",Star Jalsha Movies HD
-http://103.55.144.46:80/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Internet_TV*",Zee Bangla HD
-http://103.55.144.46:80/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Internet_TV*",Zee Bangla Cinema
-http://103.55.144.46:80/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="" group-title="Internet_TV*",Colors Bangla HD
-http://103.55.144.46:80/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="" group-title="Internet_TV*",Sun Bangla
-http://103.55.144.46:80/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic BanglaHD" tvg-logo="" group-title="Internet_TV*",National Geographic BanglaHD
-http://103.55.144.46:80/hls/ngohd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD" tvg-logo="" group-title="Internet_TV*",Discovery Bangla HD
-http://103.55.144.46:80/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP Bangla HD" tvg-logo="" group-title="Internet_TV*",Travel XP Bangla HD
-http://103.55.144.46:80/hls/travelxp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="" group-title="Internet_TV*",Sony BBC Earth HD
-http://103.55.144.46:80/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Internet_TV*",Animal Planet HD
-http://103.55.144.46:80/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wild" tvg-logo="" group-title="Internet_TV*",Wild
-http://103.55.144.46:80/hls/wild.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD" tvg-logo="" group-title="Internet_TV*",Sony Pix HD
-http://103.55.144.46:80/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Internet_TV*",AXN HD
-http://103.55.144.46:80/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="" group-title="Internet_TV*",Star Movies
-http://103.55.144.46:80/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 1" tvg-logo="" group-title="Internet_TV*",Star Sports HD 1
-http://103.55.144.46:80/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 2" tvg-logo="" group-title="Internet_TV*",Star Sports HD 2
-http://103.55.144.46:80/hls/starsports2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 1" tvg-logo="" group-title="Internet_TV*",Star Sports Select HD 1
-http://103.55.144.46:80/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 2" tvg-logo="" group-title="Internet_TV*",Star Sports Select HD 2
-http://103.55.144.46:80/hls/select2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="Internet_TV*",Sony Ten 1 HD
-http://103.55.144.46:80/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="Internet_TV*",Sony Ten 2 HD
-http://103.55.144.46:80/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="Internet_TV*",Sony Ten 3 HD
-http://103.55.144.46:80/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="" group-title="Internet_TV*",Sony Six HD
-http://103.55.144.46:80/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex HD" tvg-logo="" group-title="Internet_TV*",Colors Cineplex HD
-http://103.55.144.46:80/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&Pictures HD" tvg-logo="" group-title="Internet_TV*",&Pictures HD
-http://103.55.144.46:80/hls/andpictures.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="" group-title="Internet_TV*",Zee Cinema HD
-http://103.55.144.46:80/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="" group-title="Internet_TV*",Star Gold HD
-http://103.55.144.46:80/hls/stargold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="" group-title="Internet_TV*",Star Plus HD
-http://103.55.144.46:80/hls/starplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UTV Action" tvg-logo="" group-title="Internet_TV*",UTV Action
-http://103.55.144.46:80/hls/utvaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="" group-title="Internet_TV*",Sony Max
-http://103.55.144.46:80/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="" group-title="Internet_TV*",Zee TV
-http://103.55.144.46:80/hls/zeetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2 HD" tvg-logo="" group-title="Internet_TV*",Star Gold 2 HD
-http://103.55.144.46:80/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="" group-title="Internet_TV*",Sony TV
-http://103.55.144.46:80/hls/sonyen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="" group-title="Internet_TV*",NICK
-http://103.55.144.46:80/hls/nick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CN HD+" tvg-logo="" group-title="Internet_TV*",CN HD+
-http://103.55.144.46:80/hls/cn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="" group-title="Internet_TV*",Pogo
-http://103.55.144.46:80/hls/pogo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="Internet_TV*",Zoom
-http://103.55.144.46:80/hls/zoom.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",T-Sports
-http://live.flixhub.net/hls/t-sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Gtv
-http://live.flixhub.net/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Somoy tv
-http://live.flixhub.net/hls/somoy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Independent tv
-http://live.flixhub.net/hls/indepen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Cannel I
-http://live.flixhub.net/hls/channeli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Masranga tv
-http://live.flixhub.net/hls/masranga.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nexus
-http://live.flixhub.net/hls/nexus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Jalsha HD
-http://live.flixhub.net/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Bangla HD
-http://live.flixhub.net/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Bangla
-http://live.flixhub.net/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sun Bangla
-http://live.flixhub.net/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Colors Bangla Cinema
-http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Jalsha Movies HD
-http://live.flixhub.net/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-1
-http://live.flixhub.net/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-2
-http://live.flixhub.net/hls/starsports2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-1
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-2
-http://live.flixhub.net/hls/select2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sony Six
-http://live.flixhub.net/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-1
-http://live.flixhub.net/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-2
-http://live.flixhub.net/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-3
-http://live.flixhub.net/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery HD
-http://live.flixhub.net/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
-http://live.flixhub.net/hls/ngohd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Travel Xp
-http://live.flixhub.net/hls/travelxp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",BBC Earth
-http://live.flixhub.net/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Animal Planet
-http://live.flixhub.net/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nick
-http://live.flixhub.net/hls/nick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",CN
-http://live.flixhub.net/hls/cn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Pogo
-http://live.flixhub.net/hls/pogo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Movies
-http://live.flixhub.net/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony Pix
-http://live.flixhub.net/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Movies Now
-http://live.flixhub.net/hls/movies-now.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",MN+
-http://live.flixhub.net/hls/mn+.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",UTV Action
-http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Cinema HD
-http://live.flixhub.net/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Gold HD
-http://live.flixhub.net/hls/stargold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Max HD
-http://live.flixhub.net/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Cineplex
-http://live.flixhub.net/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony tv
-http://live.flixhub.net/hls/sonyen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",&Pictures
-http://live.flixhub.net/hls/andpictures.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zoom
-http://live.flixhub.net/hls/zoom.m3u8
 
 
 
