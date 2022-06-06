@@ -1097,13 +1097,26 @@ http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 
 
               Jio tv
-              
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Jio_Cricket" tvg-logo="" group-title="Jio Server LIVE",Jio_Cricket-1
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_1_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jio_Cricket" tvg-logo="" group-title="Jio Server LIVE",Jio_Cricket-2
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_2_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jio_Cricket" tvg-logo="" group-title="Jio Server LIVE",Jio_Cricket-3
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_3_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jio_Cricket" tvg-logo="" group-title="Jio Server LIVE",Jio_Cricket-4
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_4_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jio_Football" tvg-logo="" group-title="Jio Server LIVE",Jio_Football
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Football&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jio_Football_1" tvg-logo="" group-title="Jio Server LIVE",Jio_Football_1
 http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Football_1&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jio_Football_2" tvg-logo="" group-title="Jio Server LIVE",Jio_Football_2
 http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Football_2&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jio_Football_3" tvg-logo="" group-title="Jio Server LIVE",Jio_Football_3
 http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Football_3&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jio_Sports" tvg-logo="" group-title="Jio Server LIVE",Jio_Sports
+http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Sports&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jio_Events HD" tvg-logo="" group-title="Jio Server LIVE",Jio_Events HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Events&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten1_HD" tvg-logo="" group-title="Jio Server LIVE",Ten1_HD
@@ -1232,12 +1245,6 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=B4U_Music&q=800&e=junk.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Music_India&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet_Bangla" tvg-logo="" group-title="Jio Server LIVE",Sangeet_Bangla
 http://103.139.171.5:5001/jiotvplus/live.php?c=Sangeet_Bangla&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jio_Football" tvg-logo="" group-title="Jio Server LIVE",Jio_Football
-http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Football&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jio_Cricket" tvg-logo="" group-title="Jio Server LIVE",Jio_Cricket
-http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jio_Sports" tvg-logo="" group-title="Jio Server LIVE",Jio_Sports
-http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Sports&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dangal" tvg-logo="" group-title="Jio Server LIVE",Dangal
 http://103.139.171.5:5001/jiotvplus/live.php?c=Dangal&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Enterr_10_Movies" tvg-logo="" group-title="Jio Server LIVE",Enterr_10_Movies
