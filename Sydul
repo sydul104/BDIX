@@ -338,22 +338,36 @@ https://nbn.chowdhury-shaheb.com/live/nb-starmovie_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Unknown",1
-http://stream.accessnetbd.com/hls/sky3.m3u8
+http://stream.accessnetbd.com/hls/sky1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",2
-http://stream.accessnetbd.com/hls/sky4.m3u8
+http://stream.accessnetbd.com/hls/sky2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",3
-http://stream.accessnetbd.com/hls/sky7.m3u8
+http://stream.accessnetbd.com/hls/sky3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",4
-http://stream.accessnetbd.com/hls/sky10.m3u8
+http://stream.accessnetbd.com/hls/sky4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",5
-http://stream.accessnetbd.com/hls/sky11.m3u8
+http://stream.accessnetbd.com/hls/sky5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",6
-http://stream.accessnetbd.com/hls/sky12.m3u8
+http://stream.accessnetbd.com/hls/sky6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",7
-http://stream.accessnetbd.com/hls/sky13.m3u8
+http://stream.accessnetbd.com/hls/sky7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",8
-http://stream.accessnetbd.com/hls/sky14.m3u8
+http://stream.accessnetbd.com/hls/sky8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",9
+http://stream.accessnetbd.com/hls/sky9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unknown",10
+http://stream.accessnetbd.com/hls/sky10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unknown",11
+http://stream.accessnetbd.com/hls/sky11.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unknown",12
+http://stream.accessnetbd.com/hls/sky12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unknown",13
+http://stream.accessnetbd.com/hls/sky13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unknown",14
+http://stream.accessnetbd.com/hls/sky14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unknown",15
+http://stream.accessnetbd.com/hls/sky15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unknown",16
 http://stream.accessnetbd.com/hls/sky16.m3u8
 
 
@@ -365,165 +379,130 @@ http://stream.accessnetbd.com/hls/sky16.m3u8
 
 
 
-
-http://30.30.30.30:8081/live/bangla1/playlist.m3u8
-http://30.30.30.30:8081/live/bangla2/playlist.m3u8
-http://30.30.30.30:8081/live/bangla3/playlist.m3u8
-http://30.30.30.30:8081/live/bangla4/playlist.m3u8
-http://30.30.30.30:8081/live/bangla5/playlist.m3u8
-http://30.30.30.30:8081/live/bangla6/playlist.m3u8
-http://30.30.30.30:8081/live/bangla7/playlist.m3u8
-http://30.30.30.30:8081/live/bangla8/playlist.m3u8
-http://30.30.30.30:8081/live/bangla9/playlist.m3u8
-http://30.30.30.30:8081/live/bangla10/playlist.m3u8
-http://30.30.30.30:8081/live/bangla11/playlist.m3u8
-http://30.30.30.30:8081/live/bangla12/playlist.m3u8
-http://30.30.30.30:8081/live/bangla13/playlist.m3u8
-http://30.30.30.30:8081/live/bangla14/playlist.m3u8
-http://30.30.30.30:8081/live/bangla15/playlist.m3u8
-http://30.30.30.30:8081/live/bangla16/playlist.m3u8
-http://30.30.30.30:8081/live/bangla17/playlist.m3u8
-http://30.30.30.30:8081/live/bangla18/playlist.m3u8
-http://30.30.30.30:8081/live/bangla19/playlist.m3u8
-http://30.30.30.30:8081/live/bangla20/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",1
-http://30.30.30.30:8081/live/indian1/playlist.m3u8
+http://30.30.30.30:8081/live/bangla1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",2
-http://30.30.30.30:8081/live/indian2/playlist.m3u8
+http://30.30.30.30:8081/live/bangla2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",3
-http://30.30.30.30:8081/live/indian3/playlist.m3u8
+http://30.30.30.30:8081/live/bangla3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",4
-http://30.30.30.30:8081/live/indian4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",5 
-http://30.30.30.30:8081/live/indian5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",6 
-http://30.30.30.30:8081/live/indian6/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",7 
-http://30.30.30.30:8081/live/indian7/playlist.m3u8
+http://30.30.30.30:8081/live/bangla4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",5
+http://30.30.30.30:8081/live/bangla5/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",6
+http://30.30.30.30:8081/live/bangla6/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",7
+http://30.30.30.30:8081/live/bangla7/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",8
-http://30.30.30.30:8081/live/indian8/playlist.m3u8
+http://30.30.30.30:8081/live/bangla8/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",9
-http://30.30.30.30:8081/live/indian9/playlist.m3u8
+http://30.30.30.30:8081/live/bangla9/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",10
-http://30.30.30.30:8081/live/indian10/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",11 
-http://30.30.30.30/live/skyfeed2001/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",12 
-http://30.30.30.30/live/skyfeed2002/index.m3u8
+http://30.30.30.30:8081/live/bangla10/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",11
+http://30.30.30.30:8081/live/bangla11/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",12
+http://30.30.30.30:8081/live/bangla12/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",13
-http://30.30.30.30/live/skyfeed2003/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",14 
-http://30.30.30.30/live/skyfeed2004/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",15 
-http://30.30.30.30/live/skyfeed2005/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",16 
-http://30.30.30.30/live/skyfeed2006/index.m3u8
+http://30.30.30.30:8081/live/bangla13/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",14
+http://30.30.30.30:8081/live/bangla14/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",15
+http://30.30.30.30:8081/live/bangla15/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",16
+http://30.30.30.30:8081/live/bangla16/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",17
-http://30.30.30.30/live/skyfeed2007/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",18 
-http://30.30.30.30/live/skyfeed2008/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",19 
-http://30.30.30.30/live/skyfeed2009/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",20 
-http://30.30.30.30/live/skyfeed2010/index.m3u8
+http://30.30.30.30:8081/live/bangla17/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",18
+http://30.30.30.30:8081/live/bangla18/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",19
+http://30.30.30.30:8081/live/bangla19/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",20
+http://30.30.30.30:8081/live/bangla20/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",21
-http://30.30.30.30/live/skyfeed2011/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",22 
-http://30.30.30.30/live/skyfeed2012/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",23 
-http://30.30.30.30/live/skyfeed2013/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",24 
-http://30.30.30.30/live/skyfeed2014/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",25 
-http://30.30.30.30/live/skyfeed2015/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",26 
-http://30.30.30.30/live/skyfeed2016/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",27 
-http://30.30.30.30/live/skyfeed2017/index.m3u8
+http://30.30.30.30:8081/live/bangla21/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",22
+http://30.30.30.30:8081/live/bangla22/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",23
+http://30.30.30.30:8081/live/bangla23/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",24
+http://30.30.30.30:8081/live/bangla24/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",25
+http://30.30.30.30:8081/live/bangla25/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",26
+http://30.30.30.30:8081/live/bangla26/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",27
+http://30.30.30.30:8081/live/bangla27/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",28
-http://30.30.30.30/live/skyfeed2018/index.m3u8
+http://30.30.30.30:8081/live/bangla28/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",29
-http://30.30.30.30/live/skyfeed2019/index.m3u8
+http://30.30.30.30:8081/live/bangla29/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",30
-http://30.30.30.30/live/skyfeed2020/index.m3u8
+http://30.30.30.30:8081/live/bangla30/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",31
-http://30.30.30.30:8081/tschannel/channel31/playlist.m3u8
+http://30.30.30.30:8081/live/indian1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",32
-http://30.30.30.30:8081/tschannel/channel32/playlist.m3u8
+http://30.30.30.30:8081/live/indian2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",33
-http://30.30.30.30:8081/tschannel/channel33/playlist.m3u8
+http://30.30.30.30:8081/live/indian3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",34
-http://30.30.30.30:8081/tschannel/channel34/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",35
-http://30.30.30.30:8081/tschannel/channel35/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",36
-http://30.30.30.30:8081/tschannel/channel36/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",37
-http://30.30.30.30:8081/tschannel/channel37/playlist.m3u8
+http://30.30.30.30:8081/live/indian4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",35 
+http://30.30.30.30:8081/live/indian5/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",36 
+http://30.30.30.30:8081/live/indian6/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",37 
+http://30.30.30.30:8081/live/indian7/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",38
-http://30.30.30.30:8081/tschannel/channel38/playlist.m3u8
+http://30.30.30.30:8081/live/indian8/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",39
-http://30.30.30.30:8081/tschannel/channel39/playlist.m3u8
+http://30.30.30.30:8081/live/indian9/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",40
-http://30.30.30.30:8081/tschannel/channel40/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",41
-http://30.30.30.30:8081/tschannel/channel41/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",42
-http://30.30.30.30:8081/tschannel/channel42/playlist.m3u8
+http://30.30.30.30:8081/live/indian10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",41 
+http://30.30.30.30/live/skyfeed2001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",42 
+http://30.30.30.30/live/skyfeed2002/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",43
-http://30.30.30.30:8081/tschannel/channel43/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",44
-http://30.30.30.30:8081/tschannel/channel44/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",45
-http://30.30.30.30:8081/tschannel/channel45/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",46
-http://30.30.30.30:8081/tschannel/channel46/playlist.m3u8
+http://30.30.30.30/live/skyfeed2003/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",44 
+http://30.30.30.30/live/skyfeed2004/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",45 
+http://30.30.30.30/live/skyfeed2005/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",46 
+http://30.30.30.30/live/skyfeed2006/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",47
-http://30.30.30.30:8081/tschannel/channel47/playlist.m3u8
+http://30.30.30.30/live/skyfeed2007/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",48 
-http://30.30.30.30:8081/tschannel/channel48/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",49
-http://30.30.30.30:8081/tschannel/channel49/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",50
-http://30.30.30.30:8081/tschannel/channel50/playlist.m3u8
+http://30.30.30.30/live/skyfeed2008/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",49 
+http://30.30.30.30/live/skyfeed2009/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",50 
+http://30.30.30.30/live/skyfeed2010/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",51
-http://30.30.30.30:8081/tschannel/channel51/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",52
-http://30.30.30.30:8081/tschannel/channel52/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",53
-http://30.30.30.30:8081/tschannel/channel53/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",54
-http://30.30.30.30:8081/tschannel/channel54/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",55
-http://30.30.30.30:8081/tschannel/channel55/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",56
-http://30.30.30.30:8081/tschannel/channel56/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",57
-http://30.30.30.30:8081/tschannel/channel57/playlist.m3u8
+http://30.30.30.30/live/skyfeed2011/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",52 
+http://30.30.30.30/live/skyfeed2012/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",53 
+http://30.30.30.30/live/skyfeed2013/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",54 
+http://30.30.30.30/live/skyfeed2014/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",55 
+http://30.30.30.30/live/skyfeed2015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",56 
+http://30.30.30.30/live/skyfeed2016/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",57 
+http://30.30.30.30/live/skyfeed2017/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",58
-http://30.30.30.30:8081/tschannel/channel58/playlist.m3u8
+http://30.30.30.30/live/skyfeed2018/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",59
-http://30.30.30.30:8081/tschannel/channel59/playlist.m3u8
+http://30.30.30.30/live/skyfeed2019/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",60
-http://30.30.30.30:8081/tschannel/channel60/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",61
-http://30.30.30.30:8081/tschannel/channel61/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",62
-http://30.30.30.30:8081/tschannel/channel62/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",63
-http://30.30.30.30:8081/tschannel/channel63/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",64
-http://30.30.30.30:8081/tschannel/channel64/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",65
-http://30.30.30.30:8081/tschannel/channel65/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",66
-http://30.30.30.30:8081/tschannel/channel66/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Unix-tv-2",67
-http://30.30.30.30:8081/tschannel/channel67/playlist.m3u8
+http://30.30.30.30/live/skyfeed2020/index.m3u8
+
+
 
 
 
