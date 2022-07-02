@@ -928,6 +928,215 @@ http://103.136.200.246:8082/Xplore/tracks-v1a1/mono.m3u8
 
 
 
+SUNPLEX
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Sunplex TV", CHANNEL 24
+http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Sunplex TV", EKATTOR TV
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Sunplex TV", INDEPENDENT TV
+http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Sunplex TV", JAMUNA TV
+http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gEDwlNf.png" group-title="Sunplex TV", SOMOY TV
+http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UMB7kiy.jpg" group-title="Sunplex TV", MAASRANGA TV
+http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LVo1K17.png" group-title="Sunplex TV", MY TV
+http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Sunplex TV", NAGORIK TV
+http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Sunplex TV", CHANNEL I
+http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Sunplex TV", DEPTO BANGLA
+http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9p3lgmA.png" group-title="Sunplex TV", GAZI TV
+http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sunplex TV", T SPORTS
+http://172.32.1.88:1935/tvprogram/ZEE-STDIO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Sunplex TV", CHANNEL 9
+http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Sunplex TV", DURONTO TV
+http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Sunplex TV", SATV
+http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Sunplex TV", NTV
+http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Sunplex TV", ATN BANGLA
+http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Sunplex TV", RTV
+http://172.32.1.88:1935/tvprogram/RTV-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Sunplex TV", EKUSHEY TV
+http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oOcZFz9.png" group-title="Sunplex TV", BANGLA VISION
+http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Sunplex TV", GAAN BANGLA
+http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9qgGSc.png" group-title="Sunplex TV", BTV
+http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7SNVUb5.png" group-title="Sunplex TV", STAR JALSHA
+http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Sunplex TV", ZEE BANGLA
+http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Sunplex TV", SONY AATH
+http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Sunplex TV", SONY HD
+http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Sunplex TV", SETMAX HD
+http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Sunplex TV", SONY PIX HD
+http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="Sunplex TV", Aljazeera HD
+http://172.32.1.88:1935/tvprogram/Aljazeera-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="Sunplex TV", BBC EARTH
+http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="Sunplex TV", MUSIC MASTI
+http://172.32.1.88:1935/tvprogram/MUSTI-MUSIC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", TRAVEL XP HD
+http://172.32.1.88:1935/tvprogram/TRAVELXP-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", JALSHA MOVIES
+http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", STAR PLUS
+http://172.32.1.88:1935/tvprogram/STAR-PLUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", ZEE TV
+http://172.32.1.88:1935/tvprogram/ZEE-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", ZEE CINEMA
+http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", COLORS
+http://172.32.1.88:1935/tvprogram/COLORS-SD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", STAR GOLD
+http://172.32.1.88:1935/tvprogram/STAR-GOLD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Hum Masala
+http://172.32.1.88:1935/tvprogram/Hum-Masala/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Hum Sitaray
+http://172.32.1.88:1935/tvprogram/Hum-Sitaray/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Bflix MOVIE
+http://172.32.1.88:1935/tvprogram/Bflix-MOVIE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", B4U MOVIES
+http://172.32.1.88:1935/tvprogram/B4U-MOVIES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", STAR UTSAV MOVIES
+http://172.32.1.88:1935/tvprogram/star-utsav-movies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", MN+HD
+http://172.32.1.88:1935/tvprogram/LEPLEX-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", &Flix
+http://172.32.1.88:1935/tvprogram/ZEE-STDIO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", AXN HD
+http://172.32.1.88:1935/tvprogram/AXN-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", STAR MOVIES
+http://172.32.1.88:1935/tvprogram/STAR-MOVIES-SD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", HBO
+http://172.32.1.88:1935/tvprogram/HBO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", TLC HD
+http://172.32.1.88:1935/tvprogram/TLC-HDWORLD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", BBC Lifestyle
+http://172.32.1.88:1935/tvprogram/BBC-Lifestyle/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", SONY TEN 1
+http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", SONY ESPN
+http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", SONY SIX HD
+http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", SONY TEN 2 HD
+http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Star Sports Select 1 HD
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Star Sports Select 2 HD
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-SELECT-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", STAR SPORTS 1
+http://172.32.1.88:1935/tvprogram/STAR-SPORTS-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", DSPORTS
+http://172.32.1.88:1935/tvprogram/DSPORTS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", BBC WORLD
+http://172.32.1.88:1935/tvprogram/BBC-WORLD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", DD BANGLA
+http://172.32.1.88:1935/tvprogram/DD-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Kolkata TV
+http://172.32.1.88:1935/tvprogram/Kolkata-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", NAT GEO WILD
+http://172.32.1.88:1935/tvprogram/NATGEO-WILD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", DISCOVERY ENGLISH
+http://172.32.1.88:1935/tvprogram/DISCOVERY/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", CARTOON NETWORK
+http://172.32.1.88:1935/tvprogram/CARTOON/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", DISENY CARTOON
+http://172.32.1.88:1935/tvprogram/DISENY/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", SONY YAY
+http://172.32.1.88:1935/tvprogram/SONY-YAY/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", CBeebies
+http://172.32.1.88:1935/tvprogram/CBeebies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", NICK
+http://172.32.1.88:1935/tvprogram/NICK-SD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", SANGEET BANGLA
+http://172.32.1.88:1935/tvprogram/SANGEET-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", 8XM
+http://172.32.1.88:1935/tvprogram/8XM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", 9XM
+http://172.32.1.88:1935/tvprogram/9XM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", ETC
+http://172.32.1.88:1935/tvprogram/ETC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", MTV
+http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", 9X JALWA
+http://172.32.1.88:1935/tvprogram/9X-JALWA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", B4U MUSIC
+http://172.32.1.88:1935/tvprogram/B4U-MUSIC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", DHOOM MUSIC
+http://172.32.1.88:1935/tvprogram/Dhoom-Music/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", ZING
+http://172.32.1.88:1935/tvprogram/ZING-MUSIC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", JALWA
+http://172.32.1.88:1935/tvprogram/JALWA-PK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", E24
+http://172.32.1.88:1935/tvprogram/E24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", MUSIC INDIA
+http://172.32.1.88:1935/tvprogram/MUSIC-INDIA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Lifetime
+http://172.32.1.88:1935/tvprogram/Lifetime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", History 2
+http://172.32.1.88:1935/tvprogram/H2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Housefull Action
+http://172.32.1.88:1935/tvprogram/Housefull-Action/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", MUSIC BOX RUSSIA
+http://172.32.1.88:1935/tvprogram/MUSIC-BOX-RU/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", MUSIC BOX
+http://172.32.1.88:1935/tvprogram/MUSIC-BOX/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", CTC LOVE
+http://172.32.1.88:1935/tvprogram/CTC-LOVE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", U+7
+http://172.32.1.88:1935/tvprogram/U7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", REN TV
+http://172.32.1.88:1935/tvprogram/REN-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", MUZ MUSIC
+http://172.32.1.88:1935/tvprogram/MUZ-MUSIC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", CHANSON
+http://172.32.1.88:1935/tvprogram/CHANSON/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", R PLUS
+http://172.32.1.88:1935/tvprogram/R-PLUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", R PLUS GOLD
+http://172.32.1.88:1935/tvprogram/R-Plus-Gold/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", AKASH AATH
+http://172.32.1.88:1935/tvprogram/Aakaash-Aath/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", RUPASI BANGLA
+http://172.32.1.88:1935/tvprogram/Rupasi-Bangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", BANGLA TIME
+http://172.32.1.88:1935/tvprogram/Bangla-Time/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", DW
+http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", SEE TV HD
+http://172.32.1.88:1935/tvprogram/SEETV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Zee Anmol Cinema
+http://172.32.1.88:1935/tvprogram/Zee-Anmol-Cinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", MOVIE HOUSE
+http://172.32.1.88:1935/tvprogram/MOVIE-HOUSE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", WOW CINEMA
+http://172.32.1.88:1935/tvprogram/WOW-CINEMA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Housefull Movies
+http://172.32.1.88:1935/tvprogram/Housefull-Movies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i3MvEag.png" group-title="Sunplex TV", Manoranjan Movies
+http://172.32.1.88:1935/tvprogram/Manoranjan-Movies/playlist.m3u8
+
+
+
 
 
  AliflailaBD
