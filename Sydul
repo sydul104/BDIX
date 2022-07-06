@@ -1627,7 +1627,48 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Turbo&q=800&e=.m3u8
 
 
 
-
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="India - Temp", Jio Exclusive HD
+https://tvstream.fun/jtv/auto_max.php?c=Jio_Exclusive
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity SD
+https://tvstream.fun/jtv/auto_max.php?c=Colors_Infinity_SD
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity HD
+https://tvstream.fun/jtv/auto_max.php?c=Colors_Infinity_HD
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",Comedy Central SD
+https://tvstream.fun/jtv/auto_max.php?c=Comedy_Central_SD
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png", Comedy Central HD
+https://tvstream.fun/jtv/auto_max.php?c=Comedy_Central_HD
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+https://tvstream.fun/jtv/auto_max.php?c=Sony_Pix_HD
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",Sony Pix SD
+https://tvstream.fun/jtv/auto_max.php?c=Sony_Pix_SD
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
+https://tvstream.fun/jtv/auto_max.php?c=CN_HD_English
+#EXTINF: -1 group-title="India - Temp" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png", Nick HD+
+https://tvstream.fun/jtv/auto_max.php?c=Nick_HD_Plus
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png",DreamWorks
+https://tvstream.fun/jtv/auto_max.php?c=Dreamworks
+#EXTINF:-1 tvg-id="" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png",Spots18 1 SD
+https://tvstream.fun/jtv/auto_max.php?c=Sports18_1_SD
+#EXTINF:-1 group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
+https://tvstream.fun/jtv/auto_max.php?c=Jio_Sports_1_HD
+EXTINF:-1 tvg-id="514" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
+https://tvstream.fun/jtv/auto_max.php?c=Ten_1
+#EXTINF:-1 tvg-id="523" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
+https://tvstream.fun/jtv/auto_max.php?c=Ten_2
+#EXTINF:-1 tvg-id="524" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Ten 3
+https://tvstream.fun/jtv/auto_max.php?c=Ten_3
+#EXTINF:-1 tvg-id="525" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
+https://tvstream.fun/jtv/auto_max.php?c=Sony_Six_SD
+#EXTINF:-1 tvg-id="460" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",Star Sports Select HD1
+https://tvstream.fun/jtv/auto_max.php?c=Star_Sports_Select_HD_1
+#EXTINF:-1 tvg-id="461" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",Star Sports Select HD2
+https://tvstream.fun/jtv/auto_max.php?c=Star_Sports_Select_HD_2
+#EXTINF:-1 tvg-id="159" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sports 1
+https://tvstream.fun/jtv/auto_max.php?c=Star_Sports_HD_1
+#EXTINF:-1 tvg-id="160" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png",Star Sports 2
+https://tvstream.fun/jtv/auto_max.php?c=Star_Sports_HD_2
+#EXTINF:-1 tvg-id="1294" group-title="India - Temp" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",Eurosport
+https://tvstream.fun/jtv/auto_max.php?c=Dsports
 
 
 
