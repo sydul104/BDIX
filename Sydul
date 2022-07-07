@@ -1354,12 +1354,14 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Football_3&q=800&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Sports&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jio_Events HD" tvg-logo="" group-title="Jio Server LIVE",Jio_Events HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Events&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten1_HD" tvg-logo="" group-title="Jio Server LIVE",Ten1_HD
+#EXTINF:-1 tvg-id="" tvg-name="Ten1_HD" tvg-logo="" group-title="Jio Server LIVE",Ten-1_HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten2_HD" tvg-logo="" group-title="Jio Server LIVE",Ten2_HD
+#EXTINF:-1 tvg-id="" tvg-name="Ten2_HD" tvg-logo="" group-title="Jio Server LIVE",Ten-2_HD
 https://tvstream.space/jtv/jeooooxxtv.php?c=Ten2_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten3_HD" tvg-logo="" group-title="Jio Server LIVE",Ten3_HD
+#EXTINF:-1 tvg-id="" tvg-name="Ten3_HD" tvg-logo="" group-title="Jio Server LIVE",Ten-3_HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Ten3_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten3_HD" tvg-logo="" group-title="Jio Server LIVE",Ten-4_HD
+http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_4_HD_Tamil&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Six_HD" tvg-logo="" group-title="Jio Server LIVE",Six_HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten_1" tvg-logo="" group-title="Jio Server LIVE",Ten_1
