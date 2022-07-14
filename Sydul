@@ -414,37 +414,38 @@ https://nbn.chowdhury-shaheb.com/live/nb-starmovie_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Unknown",1
-http://stream.accessnetbd.com/hls/sky1.m3u8
+#http://stream.accessnetbd.com/hls/sky1.m3u8
+http://stream.serverbd247.com/hls/sky1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",2
-http://stream.accessnetbd.com/hls/sky2.m3u8
+http://stream.serverbd247.com/hls/sky2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",3
-http://stream.accessnetbd.com/hls/sky3.m3u8
+http://stream.serverbd247.com/hls/sky3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",4
-http://stream.accessnetbd.com/hls/sky4.m3u8
+http://stream.serverbd247.com/hls/sky4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",5
-http://stream.accessnetbd.com/hls/sky5.m3u8
+http://stream.serverbd247.com/hls/sky5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",6
-http://stream.accessnetbd.com/hls/sky6.m3u8
+http://stream.serverbd247.com/hls/sky6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",7
-http://stream.accessnetbd.com/hls/sky7.m3u8
+http://stream.serverbd247.com/hls/sky7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",8
-http://stream.accessnetbd.com/hls/sky8.m3u8
+http://stream.serverbd247.com/hls/sky8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",9
-http://stream.accessnetbd.com/hls/sky9.m3u8
+http://stream.serverbd247.com/hls/sky9.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",10
-http://stream.accessnetbd.com/hls/sky10.m3u8
+http://stream.serverbd247.com/hls/sky10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",11
-http://stream.accessnetbd.com/hls/sky11.m3u8
+http://stream.serverbd247.com/hls/sky11.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",12
-http://stream.accessnetbd.com/hls/sky12.m3u8
+http://stream.serverbd247.com/hls/sky12.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",13
-http://stream.accessnetbd.com/hls/sky13.m3u8
+http://stream.serverbd247.com/hls/sky13.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",14
-http://stream.accessnetbd.com/hls/sky14.m3u8
+http://stream.serverbd247.com/hls/sky14.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",15
-http://stream.accessnetbd.com/hls/sky15.m3u8
+http://stream.serverbd247.com/hls/sky15.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",16
-http://stream.accessnetbd.com/hls/sky16.m3u8
+http://stream.serverbd247.com/hls/sky16.m3u8
 
 
 
