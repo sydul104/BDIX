@@ -876,6 +876,7 @@ http://103.136.200.246:8089/Channel24/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8089/Ekushey-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="" group-title="AmrBD Server",Gazi TV
 http://103.136.200.246:8089/GAZI/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deepto-TV" tvg-logo="" group-title="AmrBD Server",Deepto-TV
 http://103.136.200.246:8089/Deepto-TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boishakhi" tvg-logo="" group-title="AmrBD Server",Boishakhi
@@ -1012,129 +1013,130 @@ http://103.136.200.246:8089/Xplore/tracks-v1a1/mono.m3u8
  AliflailaBD
 
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",T Sports HD
-http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
+http://bascdn.aliflailabd.live:8989/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Gazi Tv
-http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/gazi-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Jamuna Tv
-http://tvserver.aliflailabd.com:8989/jamuna-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/jamuna-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Somoy TV
-http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/somoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Channel 24
-http://tvserver.aliflailabd.com:8989/channel24/index.m3u8
+http://bascdn.aliflailabd.live:8989/channel24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",News 24
-http://tvserver.aliflailabd.com:8989/news24-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/news24-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",DBC News
-http://tvserver.aliflailabd.com:8989/dbc-news/index.m3u8
+http://bascdn.aliflailabd.live:8989/dbc-news/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Ekattor TV
-http://tvserver.aliflailabd.com:8989/ekattor/index.m3u8
+http://bascdn.aliflailabd.live:8989/ekattor/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Independent TV
-http://tvserver.aliflailabd.com:8989/independent-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/independent-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",ATN News
-http://tvserver.aliflailabd.com:8989/atn-news/index.m3u8
+http://bascdn.aliflailabd.live:8989/atn-news/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",ATN Bangla
-http://tvserver.aliflailabd.com:8989/atn-bangla/index.m3u8
+http://bascdn.aliflailabd.live:8989/atn-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",ATN Islamic
-http://tvserver.aliflailabd.com:8989/atnislamictv/index.m3u8
+http://bascdn.aliflailabd.live:8989/atnislamictv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Masranga Tv
-http://tvserver.aliflailabd.com:8989/maasranga/index.m3u8
+http://bascdn.aliflailabd.live:8989/maasranga/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Channel I
-http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
+http://bascdn.aliflailabd.live:8989/channel-i/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",BTV
-http://tvserver.aliflailabd.com:8989/btv/index.m3u8
+http://bascdn.aliflailabd.live:8989/btv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",RTV
-http://tvserver.aliflailabd.com:8989/rtv/index.m3u8
+http://bascdn.aliflailabd.live:8989/rtv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",NTV
-http://tvserver.aliflailabd.com:8989/ntv/index.m3u8
+http://bascdn.aliflailabd.live:8989/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Bangla Vission
-http://tvserver.aliflailabd.com:8989/bangla-vision/index.m3u8
+http://bascdn.aliflailabd.live:8989/bangla-vision/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Channel 9
-http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
+http://bascdn.aliflailabd.live:8989/channel9/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",MY TV
-http://tvserver.aliflailabd.com:8989/my-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/my-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Deepto tv
-http://tvserver.aliflailabd.com:8989/depto-bangla/index.m3u8
+http://bascdn.aliflailabd.live:8989/depto-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",SATV
-http://tvserver.aliflailabd.com:8989/satv/index.m3u8
+http://bascdn.aliflailabd.live:8989/satv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Asian TV
-http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
+http://bascdn.aliflailabd.live:8989/asiantv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Boisakhi tv
-http://tvserver.aliflailabd.com:8989/boishakhi-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/boishakhi-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Nagorik TV
-http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Bangla Tv
-http://tvserver.aliflailabd.com:8989/bangla-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/bangla-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Jalsha HD
-http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
+http://bascdn.aliflailabd.live:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Jalsha Movies HD
-http://tvserver.aliflailabd.com:8989/jalsha-movies/index.m3u8
+http://bascdn.aliflailabd.live:8989/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Zee Bangla HD
-http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
+http://bascdn.aliflailabd.live:8989/zee-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Colors Bangla
-http://tvserver.aliflailabd.com:8989/colors-bangla/index.m3u8
+http://bascdn.aliflailabd.live:8989/colors-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Aath
-http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
+http://bascdn.aliflailabd.live:8989/sony-aath/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Duronto TV
-http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
+http://bascdn.aliflailabd.live:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Nick
-http://tvserver.aliflailabd.com:8989/nick/index.m3u8
+http://bascdn.aliflailabd.live:8989/nick/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Cartoon Network
-http://tvserver.aliflailabd.com:8989/cartoon-network/index.m3u8
+http://bascdn.aliflailabd.live:8989/cartoon-network/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Discovery HD
-http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
+http://bascdn.aliflailabd.live:8989/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",natgeo wild
-http://tvserver.aliflailabd.com:8989/natgeo-wild/index.m3u8
+http://bascdn.aliflailabd.live:8989/natgeo-wild/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",TLC
-http://tvserver.aliflailabd.com:8989/tlc-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/tlc-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Plus HD
-http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
+http://bascdn.aliflailabd.live:8989/star-plus/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Colors HD
-http://tvserver.aliflailabd.com:8989/colors-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/colors-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony HD
-http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/sony-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony MAX HD
-http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+http://bascdn.aliflailabd.live:8989/setmax/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Zee Tv
-http://tvserver.aliflailabd.com:8989/zeetv/index.m3u8
+http://bascdn.aliflailabd.live:8989/zeetv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Zee Cinema
-http://tvserver.aliflailabd.com:8989/zee-cinema/index.m3u8
+http://bascdn.aliflailabd.live:8989/zee-cinema/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",HBO
-http://tvserver.aliflailabd.com:8989/hbo/index.m3u8
+http://bascdn.aliflailabd.live:8989/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",AXN
-http://tvserver.aliflailabd.com:8989/axn-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/axn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Movies
-http://tvserver.aliflailabd.com:8989/star-movies-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/star-movies-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony PIX
-http://tvserver.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/sony-pix-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",BBC World News
-http://tvserver.aliflailabd.com:8989/bbc-world/index.m3u8
+http://bascdn.aliflailabd.live:8989/bbc-world/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",MN HD
-http://tvserver.aliflailabd.com:8989/mn-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/mn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Gaan Bangla
-http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
+http://bascdn.aliflailabd.live:8989/gaanbangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",RTV Music
-http://tvserver.aliflailabd.com:8989/rtvmusic/index.m3u8
+http://bascdn.aliflailabd.live:8989/rtvmusic/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sangeet Bangla
-http://tvserver.aliflailabd.com:8989/sangeet-bangla/index.m3u8
+http://bascdn.aliflailabd.live:8989/sangeet-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",9xm
-http://tvserver.aliflailabd.com:8989/9xm/index.m3u8
+http://bascdn.aliflailabd.live:8989/9xm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Live
-http://tvserver.aliflailabd.com:8989/sony-espn-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/sony-espn-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",T Sports HD
-http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
+http://bascdn.aliflailabd.live:8989/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Six HD
-http://tvserver.aliflailabd.com:8989/sony-six-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/sony-six-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony TEN 1 HD
-http://tvserver.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
+http://bascdn.aliflailabd.live:8989/sony-ten1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Ten 2 HD
-http://tvserver.aliflailabd.com:8989/sony-ten2/index.m3u8
+http://bascdn.aliflailabd.live:8989/sony-ten2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Sony Ten 3 HD
-http://tvserver.aliflailabd.com:8989/sony-ten3/index.m3u8
+http://bascdn.aliflailabd.live:8989/sony-ten3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Sports 1 HD
-http://tvserver.aliflailabd.com:8989/star-sports1/index.m3u8
+http://bascdn.aliflailabd.live:8989/star-sports1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Sports sel 1
-http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
+http://bascdn.aliflailabd.live:8989/star-sports-select1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",Star Sports sel 2
-http://tvserver.aliflailabd.com:8989/star-sports-select2/index.m3u8
+http://bascdn.aliflailabd.live:8989/star-sports-select2/index.m3u8
+
 
 
 
