@@ -2962,6 +2962,227 @@ https://cdn.cinemabaaz.live/SonyMaxHD/mono.m3u8
 
 
 
+SUNPLEX
+
+
+#EXTINF:-1 tvg-name="MAASRANGA TV" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="SUNPLEX",MAASRANGA TV
+http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="EKATTOR TV" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="SUNPLEX",EKATTOR TV
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="SUNPLEX",NAGORIK TV
+http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="CHANNEL I" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="SUNPLEX",CHANNEL I
+http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
+#EXTINF:-1 tvg-name="DEPTO BANGLA" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="SUNPLEX",DEPTO BANGLA
+http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-name="GAZI TV" tvg-logo="https://sunplex.net/iptv/logo/gtv.jpg" group-title="SUNPLEX",GAZI TV
+http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 9" tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" group-title="SUNPLEX",CHANNEL 9
+http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
+#EXTINF:-1 tvg-name="SATV" tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" group-title="SUNPLEX",SATV
+http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="SUNPLEX",NTV
+http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="SUNPLEX",ATN BANGLA
+http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="SUNPLEX",RTV
+http://172.32.1.88:1935/tvprogram/RTV-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="SUNPLEX",INDEPENDENT TV
+http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="SUNPLEX",JAMUNA TV
+http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="SUNPLEX",SOMOY TV
+http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="EKUSHEY TV" tvg-logo="https://sunplex.net/iptv/logo/ekushey-tv.jpg" group-title="SUNPLEX",EKUSHEY TV
+http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="SUNPLEX",CHANNEL 24
+http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
+#EXTINF:-1 tvg-name="BANGLA VISION" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="SUNPLEX",BANGLA VISION
+http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
+#EXTINF:-1 tvg-name="MY TV" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="SUNPLEX",MY TV
+http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="SUNPLEX",BTV
+http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="SUNPLEX",SONY AATH
+http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
+#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="https://sunplex.net/iptv/logo/zee-bangla.jpg" group-title="SUNPLEX",ZEE BANGLA
+http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="SUNPLEX",STAR JALSHA
+http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="SUNPLEX",SONY HD
+http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
+#EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="SUNPLEX",SETMAX HD
+http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" group-title="SUNPLEX",SONY PIX HD
+http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="SUNPLEX",T SPORTS
+http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY SIX" tvg-logo="https://sunplex.net/iptv/logo/sony-six-hd.jpg" group-title="SUNPLEX",SONY SIX
+http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 1" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" group-title="SUNPLEX",SONY TEN 1
+http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-2-hd.jpg" group-title="SUNPLEX",SONY TEN 2
+http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="SUNPLEX",SONY TEN 3
+http://172.32.1.88:1935/tvprogram/TEN3HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Skynet Sports HD" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" group-title="SUNPLEX",Skynet Sports HD
+http://172.32.1.88:1935/tvprogram/SKY-NET-HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Skynet Sports 1" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-1.jpg" group-title="SUNPLEX",Skynet Sports 1
+http://172.32.1.88:1935/tvprogram/SKY-NET-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Skynet Sports 2" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-2.jpg" group-title="",Skynet Sports 2
+http://172.32.1.88:1935/tvprogram/SKY-NET-2/playlist.m3u8
+#EXTINF:-1 tvg-name="Skynet Sports 6" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="",Skynet Sports 6
+http://172.32.1.88:1935/tvprogram/SKY-NET-6/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="SUNPLEX",SONY MAX 2
+http://172.32.1.88:1935/tvprogram/SONY-MAX2/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-sab-hd.jpg" group-title="SUNPLEX",SONY SAB
+http://172.32.1.88:1935/tvprogram/SONY-SUBHD/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://sunplex.net/iptv/logo/bbc-lifestyle.jpg" group-title="SUNPLEX",BBC Lifestyle
+http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="SUNPLEX",DD BANGLA
+http://172.32.1.88:1935/tvprogram/DD-BANGLA/playlist.m3u8
+#EXTINF:-1 tvg-name="ALJAZEERA HD" tvg-logo="https://sunplex.net/iptv/logo/aljazeera.jpg" group-title="SUNPLEX",Aljazeera HD
+http://172.32.1.88:1935/tvprogram/Aljazeera-HD/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="https://sunplex.net/iptv/logo/bbc-earth.jpg" group-title="SUNPLEX",BBC EARTH
+http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
+#EXTINF:-1 tvg-name="DURONTO TV" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="SUNPLEX",DURONTO TV
+http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="GAAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/gaan-bangla.jpg" group-title="SUNPLEX",GAAN BANGLA
+http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="SUNPLEX",DW
+http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="MAASRANGA TV" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="Bangladeshi",MAASRANGA TV
+http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EKATTOR TV" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="",EKATTOR TV
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="",NAGORIK TV
+http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL I" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="",CHANNEL I
+http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DEPTO BANGLA" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="",DEPTO BANGLA
+http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GAZI TV" tvg-logo="https://sunplex.net/iptv/logo/gtv.jpg" group-title="",GAZI TV
+http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL 9" tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" group-title="",CHANNEL 9
+http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SATV" tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" group-title="",SATV
+http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="",NTV
+http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="",ATN BANGLA
+http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="",RTV
+http://172.32.1.88:1935/tvprogram/RTV-BANGLA/playlist.m3u8
+
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="",INDEPENDENT TV
+http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="",JAMUNA TV
+http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="",SOMOY TV
+http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EKUSHEY TV" tvg-logo="https://sunplex.net/iptv/logo/ekushey-tv.jpg" group-title="",EKUSHEY TV
+http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="",CHANNEL 24
+http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BANGLA VISION" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="",BANGLA VISION
+http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MY TV" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="",MY TV
+http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="",BTV
+http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="",SONY AATH
+http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="https://sunplex.net/iptv/logo/zee-bangla.jpg" group-title="",ZEE BANGLA
+http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+
+#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="",STAR JALSHA
+http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="",SONY HD
+http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="",SETMAX HD
+http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" group-title="",SONY PIX HD
+http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="",T SPORTS
+http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY SIX" tvg-logo="https://sunplex.net/iptv/logo/sony-six-hd.jpg" group-title="",SONY SIX
+http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY TEN 1" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" group-title="",SONY TEN 1
+http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY TEN 2" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-2-hd.jpg" group-title="",SONY TEN 2
+http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="",SONY TEN 3
+http://172.32.1.88:1935/tvprogram/TEN3HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Skynet Sports HD" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" group-title="",Skynet Sports HD
+http://172.32.1.88:1935/tvprogram/SKY-NET-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Skynet Sports 1" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-1.jpg" group-title="",Skynet Sports 1
+http://172.32.1.88:1935/tvprogram/SKY-NET-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Skynet Sports 2" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-2.jpg" group-title="",Skynet Sports 2
+http://172.32.1.88:1935/tvprogram/SKY-NET-2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Skynet Sports 6" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="",Skynet Sports 6
+http://172.32.1.88:1935/tvprogram/SKY-NET-6/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="",SONY MAX 2
+http://172.32.1.88:1935/tvprogram/SONY-MAX2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-sab-hd.jpg" group-title="",SONY SAB
+http://172.32.1.88:1935/tvprogram/SONY-SUBHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://sunplex.net/iptv/logo/bbc-lifestyle.jpg" group-title="",BBC Lifestyle
+http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD BANGLA
+http://172.32.1.88:1935/tvprogram/DD-BANGLA/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ALJAZEERA HD" tvg-logo="https://sunplex.net/iptv/logo/aljazeera.jpg" group-title="",Aljazeera HD
+http://172.32.1.88:1935/tvprogram/Aljazeera-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC EARTH" tvg-logo="https://sunplex.net/iptv/logo/bbc-earth.jpg" group-title="",BBC EARTH
+http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DURONTO TV" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="",DURONTO TV
+http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GAAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/gaan-bangla.jpg" group-title="",GAAN BANGLA
+http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="",DW
+http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
 
 
 
