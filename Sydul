@@ -281,15 +281,26 @@ http://103.102.27.172:6464/Channel-8/index.m3u8
 
 
 
- WOW TV
-#EXTINF:-1 tvg-logo="" group-title="wow tv",1
-http://172.27.27.90:8080/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="wow tv",2
-http://172.27.27.90:8080/tv2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="wow tv",3
-http://172.27.27.90:8080/tv3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="wow tv",4
-http://172.27.27.90:8080/tv4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX", Star Sports 1
+http://103.16.24.54:8080/channel1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX", Sony pix
+http://103.16.24.54:8080/channel2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX", star plus 
+http://103.16.24.54:8080/channel3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX",zee Bangla 
+http://103.16.24.54:8080/channel4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX",star jalsha
+http://103.16.24.54:8080/channel5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX",& picture 
+http://103.16.24.54:8080/channel6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX", Sony six
+http://103.16.24.54:8080/channel7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX", Sky sports 
+http://116.204.149.11:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEW BDIX",Star Bharat 
+http://103.16.24.54:8080/channel8/index.m3u8
 
 
 
