@@ -305,6 +305,26 @@ http://103.16.24.54:8080/channel8/index.m3u8
 
 
 
+Live tv
+
+#EXTINF:-1 tvg-logo="" group-title="Live tv", 1
+http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live tv", 2
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live tv", 3
+http://175.41.46.16:8081/hls/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live tv", 4
+http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live tv", 5
+http://175.41.46.16:8081/hls/5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live tv", 6
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live tv", 7
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live tv", 8
+http://175.41.46.16:8081/hls/8.m3u8
+
+
 
 
 
