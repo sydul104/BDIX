@@ -259,6 +259,32 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/live-orgin/voicetv.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="Backup", GTV-1
+http://172.27.27.3:8088/hls/01_Gazitv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxh8mw0C/T-Sports.png" group-title="Backup", T Sports
+http://172.27.27.3:8088/hls/02_IndependentTv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0JBj0cr/Ten-1.png" group-title="Backup", Sony Ten 1
+http://172.27.27.3:8088/hls/03_Sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1Z6jrZ1/Ten-2.png" group-title="Backup", Sony Ten 2
+http://172.27.27.3:8088/hls/04_Sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="Backup", Star Sports 1
+http://172.27.27.3:8088/hls/07_StarSports1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="Backup", Star Sports Select 2
+http://172.27.27.3:8088/hls/08StarSports2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x3JktCT/PTV-Sports.png" group-title="Backup", PTV Sports
+http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="Backup", Zee Bangla HD Backup
+http://172.27.27.3:8088/hls/12_ZeeBangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="Backup", Star Jalsha Backup
+http://172.27.27.3:8088/hls/10_StarJalsha.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrQFTwt2/Sony-Max.png" group-title="Backup", Sony Max Backup
+http://172.27.27.3:8088/hls/14_SonyMax.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="Backup", Star Plus Backup
+http://172.27.27.3:8088/hls/09_StarPlus.m3u8
+
+
+
+
 Link-71
 
 #EXTINF:-1 tvg-logo="" group-title="Link-71",1
