@@ -282,7 +282,14 @@ http://172.27.27.3:8088/hls/14_SonyMax.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="Backup", Star Plus Backup
 http://172.27.27.3:8088/hls/09_StarPlus.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="test", Channel I
+http://10.252.253.254/hls/channeli.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCDzSKvd/Nagorik.png" group-title="test", Nagorik
+http://10.252.253.254/hls/nagoriktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="test", Bangla Vision
+http://10.252.253.254/hls/banglavision.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test", ATN Bangla
+http://10.252.253.254/hls/atn.m3u8
 
 
 Link-71
