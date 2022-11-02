@@ -1000,6 +1000,9 @@ http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
 http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 3" tvg-logo="" group-title="ICC Server TV",Sony Six HD
 http://10.16.100.207:8082/sports/s0ny6six.m3u8
+https://tvs1.aynaott.com/SonySix/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports-1
 http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ICC Server TV",StarSports-2
