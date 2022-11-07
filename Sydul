@@ -337,6 +337,8 @@ https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/ColorsBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: ZEE BANGLA
 https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY AATH
+https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: ZEE 24 GHANTA
 https://tvs1.aynaott.com/zee24/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: MADINA LIVE
@@ -381,8 +383,6 @@ https://tvs1.aynaott.com/MaxHD/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: COLORS HD
 https://tvs1.aynaott.com/ColorsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1   group-title="Aynaott",BD: SONY AATH
-https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: SONY ENTERTAINMENT
 https://tvs2.aynaott.com/SonyHD/tracks-v1a1/index-1667563200-now.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: SONY ENTERTAINMENT 2
