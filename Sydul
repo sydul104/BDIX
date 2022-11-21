@@ -588,6 +588,16 @@ http://test-otv1.ftpbd.net/streams/124/index.m3u8
 http://test-otv1.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-26
 http://test-otv1.ftpbd.net/streams/126/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-27
+http://test-otv1.ftpbd.net/streams/127/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-28
+http://test-otv1.ftpbd.net/streams/128/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-29
+http://test-otv1.ftpbd.net/streams/129/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-30
+http://test-otv1.ftpbd.net/streams/130/index.m3u8
+
+
 
 
 
