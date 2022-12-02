@@ -418,14 +418,35 @@ http://172.27.27.3:8088/hls/09_StarPlus.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="test", Channel I
-http://10.252.253.254/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCDzSKvd/Nagorik.png" group-title="test", Nagorik
-http://10.252.253.254/hls/nagoriktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="test", Bangla Vision
-http://10.252.253.254/hls/banglavision.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test", ATN Bangla
-http://10.252.253.254/hls/atn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="test", 1
+http://103.159.4.38:8091/CH1-SP1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCDzSKvd/Nagorik.png" group-title="test", 2
+http://103.159.4.38:8091/CH2-SP2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7Tp0FV/Bangla-Vision.png" group-title="test", 3
+http://103.159.4.38:8091/CH3-SP3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test", 4
+http://103.159.4.38:8091/CH4-SP4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test" 5
+http://103.159.4.38:8091/CH5-SP5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test" 6
+http://103.159.4.38:8091/CH6-SP6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test" 7
+http://103.159.4.38:8091/CH7-SP7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test" 8
+http://103.159.4.38:8091/CH8-SP8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test" 9
+http://103.159.4.38:8091/CH9-SP9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test" 10
+http://103.159.4.38:8091/CH10-SP10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjnthhbk/ATN-Bangla.png" group-title="test" 11
+http://103.159.4.38:8091/CH11-SP11/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
 
 
 
