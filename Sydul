@@ -643,29 +643,53 @@ http://test-otv2.ftpbd.net/streams/130/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-01
-http://103.109.56.116/live/skyfeed1001/index.m3u
-http://103.102.27.173/live/tvfeed1001/index.m3u8
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-02
 http://103.109.56.116/live/skyfeed1002/index.m3u8
-http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-03
 http://103.109.56.116/live/skyfeed1003/index.m3u8
-http://103.102.27.173/live/tvfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-04
 http://103.109.56.116/live/skyfeed1004/index.m3u8
-http://103.102.27.173/live/tvfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-05
 http://103.109.56.116/live/skyfeed1005/index.m3u8
-http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-06
 http://103.109.56.116/live/skyfeed1006/index.m3u8
-http://103.102.27.173/live/tvfeed1006/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-07
 http://103.109.56.116/live/skyfeed1007/index.m3u8
-http://103.102.27.173/live/tvfeed1007/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-08
 http://103.109.56.116/live/skyfeed1008/index.m3u8
-http://103.102.27.173/live/tvfeed1008/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-09
+http://103.109.56.116/live/skyfeed1009/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-10
+http://103.109.56.116/live/skyfeed1010/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-11
+http://103.109.56.116/live/skyfeed1011/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-12
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-13
+http://103.109.56.116/live/skyfeed1013/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-14
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-15
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-16
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-17
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-18
+http://103.109.56.116/live/skyfeed1018/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-19
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-20
+http://103.109.56.116/live/skyfeed1020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-21
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test_Server", TV-22
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+
+
+
 
 
 
